@@ -1,0 +1,238 @@
+---
+title: "Trabalho Final"
+author: "Herika Kawata"
+subtitle: Coleta e Análise de Dados Secund?rios
+output:
+  ioslides_presentation: 
+    widescreen: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+lista.de.pacotes = c("tidyverse","lubridate","janitor","readxl","stringr","repmis","survey","srvyr")
+novos.pacotes <- lista.de.pacotes[!(lista.de.pacotes %in%
+                                      installed.packages()[,"Package"])]
+if(length(novos.pacotes) > 0) {install.packages(novos.pacotes)}
+lapply(lista.de.pacotes, require, character.only=T)
+rm(lista.de.pacotes,novos.pacotes)
+gc()
+```
+
+#Objeto de estudo
+
+## Tema do trabalho
+
+O objetivo deste trabalho ? realizar uma an?lise explorat?ria sobre a quantidade de linhas de telefonia celular no Brasil (tamb?m denominada "Servi?o M?vel Pessoal" - SMP) em rela??o a uma vari?vel econ?mica (neste caso ser? utilizado o Produto Interno Bruto - PIB) e uma vari?vel social (usando o ?ndice de Desenvolvimento Humano - IDH) por Unidade Federativa.
+
+## Dados utilizados
+
+Para an?lise do objeto em estudo foi realizada a importa??o dos dados de acesso a linhas de telefonia celular de 10 anos (2005 a 2014) do Portal da Anatel: <http://www.anatel.gov.br/dados/destaque-1/283-acessos-smp>
+
+Em rela??o ao PIB e IDH, foram baixados os dados do site do IBGE: <https://www.ibge.gov.br/estatisticas-novoportal/economicas/contas-nacionais/9054-contas-regionais-do-brasil.html?=&t=downloads> e do Programa das Na??es Unidas para o Desenvolvimento (PNUD): <http://www.br.undp.org/content/brazil/pt/home/idh0/rankings/idhm-uf-2010.html>, respectivamente.
+
+# Objetivo da pesquisa
+
+## Objetivo
+
+Neste trabalho, vamos observar se a tend?ncia de crescimento positivo da telefonia celular possui rela??o com o crescimento econ?mico (PIB) ou com a melhora na qualidade de vida da popula??o (IDH). Para isso, utilizaremos o coeficiente de correla??o de Pearson (r) para determinar qual ? a intensidade da rela??o que existe entre esses conjuntos de dados.
+
+A correla??o linear ou r de Pearson ? um grau de rela??o entre duas vari?veis quantitativas e exprime o grau de correla??o por meio de valores situados entre -1 e 1.
+
+## PIB e IDH
+
+O Produto Interno Bruto (PIB) foi escolhido para esta an?lise porque ? um dos indicadores mais utilizados na economia de mercado e objetiva examinar as atividades econ?micas de um pa?s.
+
+O ?ndice de Desenvolvimento Humano (IDH) ? uma medida resumida do progresso a longo prazo em tr?s dimens?es b?sicas do desenvolvimento humano: renda, educa??o e sa?de. O objetivo da utiliza??o do IDH foi o de oferecer um contraponto ao PIB, que considera apenas a dimens?o econ?mica do desenvolvimento. Desta forma, o IDH ? considerado um ?ndice de qualidade de vida, pois sua abordagem de desenvolvimento humano procura olhar diretamente para as pessoas, suas oportunidades e capacidades.
+
+# M?todo
+
+## Coleta e Organiza??o dos dados
+
+Importa??o dos dados analisados
+
+```{r, echo = TRUE}
+# Importa??o dos dados das linhas de celular
+acessos_smp <- read.csv("https://raw.githubusercontent.com/Hkawata1/ENAP_ADPP/master/Acessos_SMP_2005_2014_UF.csv",
+                        sep=";", dec=",", header = TRUE)
+
+# Importa??o dos dados sobre PIB
+pib_pop <- read.csv("https://raw.githubusercontent.com/Hkawata1/ENAP_ADPP/master/PIB_Populacao_2010_2014.csv",
+                    sep=";", dec=",", header = TRUE)
+
+# Importa??o dos dados sobre IDH
+idh <- read.csv("https://raw.githubusercontent.com/Hkawata1/ENAP_ADPP/master/IDH_2010_UF.csv",
+                sep=";", dec=".", header = TRUE, stringsAsFactors = FALSE)
+```
+
+## An?lise das vari?veis
+
+Os dados mais atualizados do Produto Interno Bruto (PIB) por UF datam de 2015, disponibilizados no site do IBGE em 2017.
+
+O Programa das Na??es Unidas para o Desenvolvimento (PNUD), o qual divulga o IDH, s? possui dados atualizados por UF no Brasil at? 2010.
+
+Desta forma, utilizaremos como ano de refer?ncia 2010 para ambas as an?lises. A vari?vel resposta (ou dependente) ? a quantidade de linhas de telefonia celular (SMP) e as vari?veis explicativas ou preditoras (independentes) ser?o o PIB e o IDH.
+
+Para a an?lise de correla??o ser? utilizado o comando cor.test pela conveni?ncia de j? considerar um intervalo de confian?a de 95%.
+
+# Contextualiza??o
+
+## A telefonia celular no Brasil
+
+A primeira rede de telefonia celular do Brasil foi lan?ada pela Telerj, no Rio de Janeiro em 1990. Atualmente no Brasil existem 234 milh?es de linhas de telefones celulares ativas (dados da Anatel at? agosto de 2018).
+
+A populariza??o e dissemina??o das linhas de telefonia celular ocorreu apenas nos anos 2000, com o barateamento de aparelhos, melhoria de funcionalidades e dos sistemas de processamento. O lan?amento dos primeiros smartphones (Blackberrys em 2002, Iphones em 2007 e celulares com sistema Android em 2008) incentivou significativamente a aquisi??o de linhas celulares, conforme pode ser observado no gr?fico a seguir.
+
+## Tend?ncia de crescimento da telefonia celular em 10 anos
+
+```{r fig.width = 10, fig.height = 5}
+# Tabela com valores consolidados de SMP para cria??o do gr?fico:
+acessos_smp_total <- acessos_smp %>% 
+  summarise("2005" = sum(SMP2005), "2006" = sum(SMP2006), "2007" = sum(SMP2007), "2008" = sum(SMP2008), "2009" = sum(SMP2009), 
+            "2010" = sum(SMP2010), "2011" = sum(SMP2011), "2012" = sum(SMP2012), "2013" = sum(SMP2013), "2014" = sum(SMP2014)) %>% 
+  gather(key= "Ano", value = "Total", "2005":"2014")
+
+library(ggplot2)
+graf_total_SMP <- acessos_smp_total %>% 
+  ggplot(aes(x= Ano, y= Total/1000, fill= "pink")) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(y= 0, label = round(Total, digits = 0), vjust = -7)) +
+  guides(fill = FALSE) +
+  labs(
+    title="Acessos a Telefonia Celular",
+    subtitle="2005 a 2014",
+    y="Acesso a Telefonia Celular (por mil)")
+graf_total_SMP
+```
+
+## Cen?rio da telefonia celular em 2010 por UF
+
+```{r fig.width = 10, fig.height = 5}
+graf_smp2010_uf <- acessos_smp %>% 
+  ggplot(aes(x=UF,y=SMP2010,fill=UF))+
+  geom_bar(stat="identity")+ guides(fill=FALSE)+
+  labs(
+    title="Acessos a Telefonia Celular por UF",
+    subtitle="Ano 2010",
+    y="Acesso a Telefonia Celular (por mil)")
+graf_smp2010_uf
+```
+
+#An?lise do tema
+
+## An?lise de correla??o - PIB
+
+Come?amos nossas an?lises pelo PIB, juntando as tabelas de SMP e PIB:
+
+```{r, echo = TRUE}
+base_smp_pib <- acessos_smp %>%
+  left_join(pib_pop, by= "UF") %>% 
+  select(UF, SMP2010, PIB2010, POP2010)
+head(base_smp_pib)
+```
+
+## An?lise de correla??o - PIB
+
+```{r, echo = TRUE}
+summary(base_smp_pib)
+```
+
+## An?lise de correla??o - PIB
+
+```{r, echo = TRUE}
+library(broom)
+cor.test(x= base_smp_pib[["SMP2010"]], y= base_smp_pib[["PIB2010"]])
+```
+
+Podemos perceber que o coeficiente ? extremamente alto (r = 0,98), indicando que h? uma correla??o muito alta entre o PIB e a quantidade de linhas de telefonia celular.
+
+## An?lise de correla??o - PIB
+
+Como o coeficiente de Pearson ? elevado e apenas para fins did?ticos, podemos construir um modelo de regress?o linear simples (mrls) entre a vari?vel resposta ou dependente (x = SMP) com a vari?vel preditora ou independente analisada (Y = PIB):
+
+```{r, echo = TRUE}
+mrls <- base_smp_pib %>% 
+  lm(PIB2010 ~ SMP2010, data = .)
+mrls
+```
+
+Y = -42329,22 + 24,78 * x
+
+## An?lise de correla??o - PIB
+
+```{r fig.width = 10, fig.height = 5}
+graf_smp_pib <- base_smp_pib %>% 
+  ggplot(aes(x=SMP2010,y=PIB2010/1000, size= POP2010))+
+  geom_point(aes(colour = UF)) +
+  geom_smooth(method = lm) +
+    labs(
+    title="Correlacao Telefonia Celular e PIB",
+    subtitle="Ano 2010",
+    x="PIB (por mil)",
+    y="Acesso a Telefonia Celular")
+graf_smp_pib
+```
+
+## An?lise de correla??o - IDH
+
+Para a an?lise de correla??o com o IDH, seguiremos os mesmos passos da outra vari?vel estudada:
+
+```{r, message= FALSE, warning= FALSE ,echo = TRUE}
+base_smp_idh <- acessos_smp %>%
+  left_join(idh, by= "UF") %>% 
+  select(UF, SMP2010, IDH2010) %>% 
+  mutate(IDH2010 = as.numeric(gsub(",", ".", as.character(IDH2010))))
+head(base_smp_idh)
+```
+
+## An?lise de correla??o - IDH
+
+```{r, echo = TRUE}
+summary(base_smp_idh)
+```
+
+## An?lise de correla??o - IDH
+```{r, echo = TRUE}
+cor.test(x= base_smp_idh[["SMP2010"]], y= base_smp_idh[["IDH2010"]])
+```
+
+Considerando a fraca correla??o apresentada (r = 0,432), ? poss?vel afirmar que o IDH possui pouca rela??o com a aquisi??o de linhas celulares.
+
+## An?lise de correla??o - IDH
+
+```{r fig.width = 10, fig.height = 5}
+graf_smp_idh <- base_smp_idh %>% 
+  ggplot(aes(x= SMP2010, y= IDH2010))+
+  geom_point(aes(colour = UF))+
+  geom_smooth(method = "lm") +
+  theme(legend.title=element_blank()) +
+  labs(
+    title="Correlacao Telefonia Celular e IDH",
+    subtitle="Ano 2010",
+    x="Acesso a Telefonia Celular (por mil)",
+    y="IDH")
+graf_smp_idh
+```
+
+# Conclus?o
+
+## Interpreta??o dos resultados - SMP e PIB
+
+- Os resultados em rela??o ao PIB mostraram que a correla??o ? quase perfeita, o que significa que h? uma associa??o muito forte entre as duas vari?veis;
+
+- Al?m disso, o coeficiente ? positivo, conforme indicado pela reta de regress?o ascendente, o que significa que ambas as vari?veis tendem a aumentar ou diminuir em conjunto;
+
+- Contudo, n?o se pode concluir que as mudan?as em uma vari?vel causam mudan?as em outra vari?vel com base apenas na correla??o. Somente experimentos adequadamente controlados permitem que voc? determine se uma rela??o ? causal.
+
+## Interpreta??o dos resultados - SMP e IDH
+
+- No c?lculo da correla??o com o IDH foi observado que h? uma rela??o positiva fraca entre as vari?veis;
+
+- Um coeficiente de correla??o de Pearson baixo n?o significa que n?o existe nenhuma rela??o entre as vari?veis, pois podem ter uma rela??o n?o linear;
+
+- Como a intensidade da correla??o linear n?o foi muito significativa, o trabalho apenas se prop?s a demonstrar os resultados, sem construir modelos que podem gerar controv?rsia.
+
+## Conclus?o
+
+- ? importante ressaltar que a correla??o ? uma medida que n?o ? resistente ao centro, ou seja, como o seu c?lculo depende da m?dia das vari?veis, ela ? muito sens?vel a observa??es que est?o em posi??es extremas;
+
+- Por fim, salientamos que ? muito comum que vari?veis ocultas tenham influ?ncia neste tipo de trabalho explorat?rio. ? necess?rio um trabalho mais aprofundado sobre o assunto, bem como do contexto hist?rico do per?odo analisado para conseguir an?lises mais informativas.
