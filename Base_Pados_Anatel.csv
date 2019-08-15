@@ -1,0 +1,2057 @@
+Num_processo;Superintendencia;Tipologia_processo;Servico_telecom;Grupo_economico;Duracao_processo;Renuncia;Situacao_multa;Recurso_juridico;Cadin;Divida_ativa;Valor_multa;Saldo_devedor
+5,35E+14;SCO;Obrigações Legais e Contratuais;SMP;TELEFÔNICA;37;Sim;Quitado;Nao;Nao;Nao;192298,28;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;74;Nao;Devedor;Nao;Nao;Nao;236,66;236,66
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;62;Sim;Quitado;Nao;Nao;Nao;3948,65;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;91;Nao;Devedor;Nao;Nao;Nao;496,67;496,67
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SCM;OUTROS;120;Nao;Devedor;Nao;Nao;Nao;13392,37;13392,37
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;108;Nao;Devedor;Nao;Nao;Nao;1069,10;1069,10
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;138;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;SCM;OUTROS;151;Nao;Devedor;Nao;Nao;Nao;168,30;168,30
+5,35E+14;SFI;Licenciamento de Estação;SMP;OUTROS;202;Nao;Devedor;Nao;Nao;Nao;1875,00;1875,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;187;Nao;Devedor;Nao;Nao;Nao;640,00;640,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;OUTROS;210;Nao;Devedor;Nao;Nao;Nao;6385,73;6385,73
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;136;Sim;Quitado;Nao;Nao;Nao;478,51;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;110;Nao;Devedor;Nao;Nao;Nao;3470,10;3470,10
+5,35E+14;SCO;Direitos do Consumidor - SCM;SCM;OUTROS;205;Nao;Devedor;Nao;Nao;Nao;660,00;660,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;144;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;218;Nao;Devedor;Nao;Nao;Nao;20200,00;20200,00
+5,36E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;157;Nao;Quitado;Nao;Nao;Nao;9656,25;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;128;Nao;Devedor;Nao;Nao;Nao;20400,00;20400,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;105;Nao;Devedor;Nao;Nao;Nao;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;114;Nao;Devedor;Nao;Nao;Nao;100000,00;100000,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;154;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;219;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;185;Nao;Quitado;Nao;Nao;Nao;638,02;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;186;Nao;Devedor;Nao;Nao;Nao;100000,00;100000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;253;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;176;Sim;Quitado;Nao;Nao;Nao;15000,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;201;Nao;Devedor;Nao;Nao;Nao;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;243;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Não Outorgado - Serviço;STFC;OUTROS;188;Nao;Parcial;Nao;Nao;Nao;24704,16;9881,66
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;172;Sim;Quitado;Nao;Nao;Nao;480,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;OI;279;Nao;Devedor;Nao;Nao;Nao;123467,65;123467,65
+5,35E+14;SCO;Remuneração de Redes;STFC;OUTROS;240;Nao;Devedor;Nao;Nao;Nao;100605,20;100605,20
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;58;Sim;Quitado;Nao;Nao;Nao;1518,75;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;150;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;215;Nao;Devedor;Nao;Nao;Sim;2672,75;2672,75
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;242;Nao;Quitado;Nao;Nao;Nao;133,28;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;242;Nao;Quitado;Nao;Nao;Nao;110,00;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;281;Nao;Quitado;Nao;Nao;Nao;110,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;206;Sim;Quitado;Nao;Nao;Nao;480,00;0,00
+5,35E+14;SCO;Interconexão;STFC;OUTROS;213;Nao;Devedor;Nao;Nao;Sim;64930,09;64930,09
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;327;Nao;Devedor;Nao;Nao;Nao;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;284;Nao;Devedor;Nao;Nao;Nao;333300,00;333300,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;222;Nao;Parcial;Nao;Nao;Nao;11992,91;3027,81
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;133;Nao;Devedor;Nao;Nao;Nao;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;247;Nao;Devedor;Nao;Nao;Nao;12817,87;12817,87
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;215;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;287;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;215;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;213;Nao;Devedor;Nao;Nao;Nao;101000,00;101000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;283;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;382;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;335;Nao;Devedor;Nao;Nao;Nao;339900,00;339900,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;290;Nao;Devedor;Nao;Nao;Nao;20200,00;20200,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;291;Nao;Devedor;Nao;Nao;Nao;333300,00;333300,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;279;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;227;Nao;Devedor;Nao;Nao;Sim;8157,06;8157,06
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;249;Sim;Quitado;Nao;Nao;Nao;484,80;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;228;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;199;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SeAC;OUTROS;195;Nao;Devedor;Nao;Sim;Nao;20800,00;20800,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;189;Nao;Devedor;Nao;Nao;Nao;444,40;444,40
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;185;Nao;Devedor;Nao;Nao;Nao;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;182;Sim;Quitado;Nao;Nao;Nao;554,25;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;251;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;221;Nao;Devedor;Nao;Nao;Nao;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;199;Nao;Devedor;Nao;Nao;Sim;20200,00;20200,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;185;Nao;Devedor;Nao;Nao;Sim;333300,00;333300,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;297;Nao;Devedor;Nao;Nao;Nao;20200,00;20200,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;336;Nao;Devedor;Nao;Nao;Nao;55000,00;55000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;206;Nao;Quitado;Nao;Nao;Nao;1371,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;STFC;OUTROS;206;Nao;Quitado;Nao;Nao;Nao;1371,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;255;Nao;Devedor;Nao;Nao;Nao;101000,00;101000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;217;Nao;Devedor;Nao;Nao;Sim;333300,00;333300,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;339;Nao;Devedor;Nao;Nao;Nao;448,80;448,80
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;139;Nao;Quitado;Nao;Nao;Nao;444,40;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;181;Nao;Devedor;Nao;Nao;Sim;20200,00;20200,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;211;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;TELEFÔNICA;371;Sim;Quitado;Nao;Nao;Nao;9375,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - Convergente;STFC;TELEFÔNICA;367;Sim;Quitado;Nao;Nao;Nao;30779,94;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;CLARO;195;Nao;Quitado;Nao;Nao;Nao;5000,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;256;Nao;Devedor;Nao;Nao;Nao;1196,04;1196,04
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;157;Nao;Devedor;Nao;Nao;Nao;2358,62;2358,62
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;167;Sim;Quitado;Nao;Nao;Nao;1455,91;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SMP;CLARO;262;Sim;Quitado;Nao;Nao;Nao;44144,77;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;TIM;180;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;STFC;OUTROS;99;Sim;Quitado;Nao;Nao;Nao;2112,65;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;STFC;SERCOMTEL;99;Sim;Quitado;Nao;Nao;Nao;2112,65;0,00
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;TELEFÔNICA;415;Nao;Devedor;Nao;Nao;Nao;26063,45;26063,45
+5,35E+14;SCO;Interconexão;STFC;OI;229;Nao;Devedor;Nao;Sim;Sim;154296,44;154296,44
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;335;Nao;Devedor;Nao;Nao;Nao;27500,00;27500,00
+5,36E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;284;Nao;Quitado;Nao;Nao;Nao;898,02;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;181;Nao;Devedor;Nao;Sim;Sim;2152,86;2152,86
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;377;Sim;Quitado;Nao;Nao;Nao;104,74;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;202;Sim;Quitado;Nao;Nao;Nao;335,20;0,00
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;184;Nao;Quitado;Nao;Nao;Nao;1152,00;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;294;Nao;Quitado;Nao;Nao;Nao;161,89;0,00
+5,35E+14;SFI;Irregularidade Técnica e Certificação;SMP;OUTROS;137;Sim;Quitado;Nao;Nao;Nao;82,50;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;168;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,36E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;211;Sim;Quitado;Nao;Nao;Nao;1794,10;0,00
+5,36E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;301;Nao;Devedor;Nao;Nao;Nao;1196,16;1196,16
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;195;Sim;Quitado;Nao;Nao;Nao;2864,25;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;177;Nao;Quitado;Nao;Nao;Nao;957,03;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;202;Nao;Devedor;Nao;Nao;Nao;4000,00;4000,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;202;Nao;Quitado;Nao;Nao;Nao;2392,08;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;202;Nao;Quitado;Nao;Nao;Nao;2392,08;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;202;Sim;Quitado;Nao;Nao;Nao;1794,06;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;172;Sim;Quitado;Nao;Nao;Nao;3123,09;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SMP;OUTROS;159;Nao;Devedor;Nao;Sim;Sim;1098,02;1098,02
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;272;Nao;Devedor;Nao;Nao;Nao;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;179;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;174;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;184;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;302;Nao;Quitado;Nao;Nao;Nao;174,55;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SMP;TELEFÔNICA;198;Sim;Quitado;Nao;Nao;Nao;5491,16;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;174;Nao;Quitado;Nao;Nao;Nao;1088,02;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;184;Nao;Devedor;Nao;Nao;Nao;598,02;598,02
+5,35E+14;SFI;Licenciamento de Estação;SMP;CLARO;178;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;156;Nao;Devedor;Nao;Nao;Nao;2405,47;2405,47
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;186;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;186;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;186;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Certificação de Produtos;SMP;OUTROS;196;Nao;Devedor;Nao;Sim;Nao;11760,00;11760,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;163;Sim;Quitado;Nao;Nao;Nao;744,15;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;202;Sim;Quitado;Nao;Nao;Nao;5205,16;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;266;Nao;Quitado;Nao;Nao;Nao;178,06;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SeAC;OUTROS;188;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;174;Nao;Quitado;Nao;Nao;Nao;598,02;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;202;Nao;Quitado;Nao;Nao;Nao;657,82;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;211;Nao;Parcial;Nao;Nao;Nao;2392,32;27,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;224;Nao;Devedor;Nao;Sim;Sim;7002,59;7002,59
+5,35E+14;SFI;Irregularidade Técnica e Certificação;SMP;OUTROS;116;Nao;Quitado;Nao;Nao;Nao;2265,37;0,00
+5,35E+14;SFI;Irregularidade Técnica;SMP;TIM;189;Sim;Quitado;Nao;Nao;Nao;36993,02;0,00
+5,35E+14;SFI;Certificação de Produtos;SeAC;OUTROS;248;Nao;Devedor;Nao;Nao;Nao;20320,00;20320,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;247;Sim;Quitado;Nao;Nao;Nao;1794,24;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;195;Nao;Quitado;Nao;Nao;Sim;446,93;0,00
+5,36E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;190;Nao;Devedor;Nao;Sim;Nao;2392,08;2392,08
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;199;Nao;Parcial;Nao;Nao;Nao;2672,75;2561,28
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;197;Sim;Quitado;Nao;Nao;Nao;2475,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;188;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;404;Sim;Quitado;Nao;Nao;Nao;15150,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;249;Nao;Parcial;Nao;Nao;Nao;598,02;4,57
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;186;Nao;Devedor;Nao;Nao;Nao;3123,09;3123,09
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;174;Sim;Quitado;Nao;Nao;Nao;448,52;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;156;Nao;Quitado;Nao;Nao;Nao;2265,37;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;416;Nao;Devedor;Nao;Nao;Nao;670,28;670,28
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;395;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;266;Nao;Quitado;Nao;Nao;Nao;5880,04;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;TELEFÔNICA;301;Nao;Devedor;Nao;Sim;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;201;Nao;Devedor;Nao;Sim;Nao;20000,00;20000,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;192;Sim;Quitado;Nao;Nao;Nao;448,52;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;543;Nao;Devedor;Nao;Nao;Nao;8748,72;8748,72
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;320;Sim;Quitado;Nao;Nao;Nao;3046,13;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;477;Nao;Devedor;Nao;Nao;Nao;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;243;Nao;Devedor;Nao;Sim;Sim;8710,31;8710,31
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;174;Nao;Quitado;Nao;Nao;Nao;3116,48;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;210;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;197;Nao;Devedor;Nao;Sim;Sim;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;196;Nao;Devedor;Nao;Sim;Sim;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;414;Nao;Devedor;Nao;Nao;Nao;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;228;Nao;Devedor;Nao;Sim;Sim;101000,00;101000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;224;Nao;Devedor;Nao;Nao;Nao;50000,00;50000,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;181;Nao;Quitado;Nao;Nao;Nao;598,02;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;253;Sim;Quitado;Nao;Nao;Nao;41250,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;168;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Certificação de Produtos;SCM;OUTROS;154;Sim;Quitado;Nao;Nao;Nao;8140,50;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;177;Nao;Quitado;Nao;Nao;Nao;598,02;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;570;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;501;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;482;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;552;Nao;Devedor;Nao;Nao;Nao;101000,00;101000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;371;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SeAC;OUTROS;357;Nao;Devedor;Nao;Nao;Nao;53000,00;53000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;336;Nao;Devedor;Nao;Sim;Sim;2644,14;2644,14
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;319;Nao;Devedor;Nao;Sim;Sim;20400,00;20400,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;507;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;333;Nao;Devedor;Nao;Sim;Sim;448,40;448,40
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;384;Nao;Devedor;Nao;Sim;Sim;448,80;448,80
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;320;Nao;Devedor;Nao;Sim;Sim;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;356;Nao;Devedor;Nao;Sim;Sim;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;390;Nao;Quitado;Nao;Nao;Nao;448,80;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;264;Nao;Devedor;Nao;Sim;Sim;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;243;Sim;Quitado;Nao;Nao;Nao;2050,95;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;269;Nao;Devedor;Nao;Sim;Sim;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;264;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;431;Nao;Devedor;Nao;Nao;Sim;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SeAC;OUTROS;311;Nao;Devedor;Nao;Sim;Nao;21000,00;21000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;236;Nao;Devedor;Nao;Nao;Nao;51000,00;51000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;222;Nao;Devedor;Nao;Sim;Sim;3971,94;3971,94
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;215;Nao;Devedor;Nao;Sim;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;195;Sim;Quitado;Nao;Nao;Nao;333,30;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;179;Sim;Quitado;Nao;Nao;Nao;15000,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;220;Sim;Quitado;Nao;Nao;Nao;1865,31;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;208;Nao;Devedor;Nao;Sim;Sim;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;551;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;514;Nao;Devedor;Nao;Nao;Sim;5264,86;5264,86
+5,35E+14;SFI;Obstrução à Fiscalização;STFC;OUTROS;326;Nao;Devedor;Nao;Nao;Nao;202000,00;202000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;216;Nao;Devedor;Nao;Nao;Nao;11338,54;11338,54
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;209;Nao;Devedor;Nao;Sim;Sim;50000,00;50000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;203;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;202;Nao;Devedor;Nao;Sim;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SeAC;OUTROS;192;Nao;Devedor;Nao;Sim;Sim;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;182;Sim;Quitado;Nao;Nao;Nao;3948,64;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;167;Nao;Parcial;Nao;Nao;Nao;18360,00;73,22
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;402;Nao;Devedor;Nao;Nao;Nao;11570,10;11570,10
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;370;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;248;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;234;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;227;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;202;Nao;Devedor;Nao;Sim;Nao;100000,00;100000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;179;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;STFC;OUTROS;173;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;518;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;231;Nao;Quitado;Nao;Nao;Nao;15000,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;216;Nao;Devedor;Nao;Nao;Nao;100000,00;100000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;128;Nao;Devedor;Nao;Sim;Nao;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;234;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;564;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;445;Sim;Quitado;Nao;Nao;Nao;333,30;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;124;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Irregularidade Técnica;SMP;TELEFÔNICA;378;Nao;Quitado;Nao;Nao;Nao;26804,05;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;204;Sim;Quitado;Nao;Nao;Nao;333,98;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;207;Sim;Quitado;Nao;Nao;Nao;345,37;0,00
+5,36E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;180;Nao;Quitado;Nao;Nao;Nao;1196,16;0,00
+5,36E+14;SFI;Certificação de Produtos;SMP;OUTROS;187;Nao;Devedor;Nao;Nao;Nao;684,00;684,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;153;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;153;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;178;Sim;Quitado;Nao;Nao;Nao;448,52;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;127;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;198;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;127;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Irregularidade Técnica;SMP;TIM;154;Sim;Quitado;Nao;Nao;Nao;20808,58;0,00
+5,35E+14;SCO;Gestão da Qualidade - SCM;SCM;OUTROS;391;Sim;Quitado;Nao;Nao;Nao;243660,51;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;202;Nao;Devedor;Nao;Nao;Nao;5078,22;5078,22
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;242;Sim;Quitado;Nao;Nao;Nao;3808,66;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;208;Nao;Quitado;Nao;Nao;Nao;598,02;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;210;Nao;Devedor;Nao;Sim;Sim;2377,88;2377,88
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;209;Nao;Devedor;Nao;Sim;Sim;1186,43;1186,43
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;251;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;193;Nao;Parcial;Nao;Nao;Nao;4543,67;3570,47
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;151;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;106;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;67;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;236;Sim;Quitado;Nao;Nao;Nao;448,52;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;182;Sim;Quitado;Nao;Nao;Nao;3187,50;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;107;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;219;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;197;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;197;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;203;Nao;Devedor;Nao;Sim;Sim;5586,04;5586,04
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;182;Nao;Devedor;Nao;Sim;Sim;8178,60;8178,60
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;263;Sim;Quitado;Nao;Nao;Nao;695,63;0,00
+5,36E+14;SFI;Irregularidade Técnica e Certificação;SCM;OUTROS;425;Nao;Devedor;Nao;Sim;Nao;1265,00;1265,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;105;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;180;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;176;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;190;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;187;Nao;Devedor;Nao;Sim;Nao;2405,47;2405,47
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;186;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;166;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;252;Nao;Quitado;Nao;Nao;Nao;1196,04;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;170;Nao;Devedor;Nao;Sim;Sim;2271,83;2271,83
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;169;Nao;Devedor;Nao;Nao;Sim;440,00;440,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;169;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;256;Nao;Devedor;Nao;Sim;Sim;6246,19;6246,19
+5,35E+14;SCO;Universalização;STFC;CLARO;634;Sim;Quitado;Nao;Nao;Nao;28102,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;209;Nao;Parcial;Nao;Sim;Nao;17760,00;17493,59
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;124;Nao;Parcial;Nao;Sim;Sim;4810,94;4316,98
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;208;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;182;Nao;Devedor;Nao;Nao;Sim;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Serviço;SMP;OUTROS;254;Nao;Devedor;Nao;Nao;Nao;104500,00;104500,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;239;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;271;Nao;Quitado;Nao;Nao;Nao;1528,51;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;204;Sim;Quitado;Nao;Nao;Nao;4944,90;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;STFC;OUTROS;204;Sim;Quitado;Nao;Nao;Nao;2212,67;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;204;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;135;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;175;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;120;Nao;Parcial;Nao;Sim;Sim;5078,22;4975,42
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;232;Nao;Quitado;Nao;Nao;Nao;2152,88;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;203;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;452;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;128;Nao;Quitado;Nao;Nao;Nao;2152,87;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;121;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;724;Nao;Devedor;Nao;Nao;Nao;2392,32;2392,32
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;215;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;554;Nao;Devedor;Nao;Nao;Nao;2180,96;2180,96
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;188;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;222;Nao;Quitado;Nao;Nao;Nao;2392,32;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;489;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;348;Nao;Quitado;Nao;Nao;Nao;2138,20;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;309;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;167;Nao;Devedor;Nao;Nao;Nao;2539,11;2539,11
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;192;Nao;Quitado;Nao;Nao;Nao;858,11;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;131;Sim;Quitado;Nao;Nao;Nao;3808,66;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;200;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;183;Nao;Parcial;Nao;Nao;Nao;440,00;352,99
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;131;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;164;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;359;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;155;Nao;Devedor;Nao;Sim;Sim;15016,96;15016,96
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;209;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;200;Nao;Devedor;Nao;Sim;Sim;6940,21;6940,21
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;187;Sim;Quitado;Nao;Nao;Nao;1703,87;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;371;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;OI;644;Nao;Devedor;Nao;Nao;Nao;233362,87;233362,87
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;183;Nao;Devedor;Nao;Nao;Sim;2363,20;2363,20
+5,36E+14;SFI;Irregularidade Técnica;STFC;OI;470;Nao;Devedor;Nao;Sim;Nao;5000,00;5000,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;191;Nao;Parcial;Nao;Sim;Nao;5345,49;3995,34
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;319;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;188;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;CLARO;754;Nao;Quitado;Nao;Nao;Nao;752909,06;0,00
+5,35E+14;SCO;Gestão da Qualidade - SMP;SMP;OUTROS;429;Nao;Devedor;Nao;Nao;Nao;43249,73;43249,73
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;167;Nao;Quitado;Nao;Nao;Nao;2138,20;0,00
+5,35E+14;SCO;Gestão da Qualidade - SMP;SMP;OUTROS;547;Sim;Quitado;Nao;Nao;Nao;2957,09;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;142;Nao;Parcial;Nao;Nao;Nao;5345,49;4231,98
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;175;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;316;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SCM;OUTROS;203;Nao;Quitado;Nao;Nao;Nao;1257,03;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;166;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;198;Nao;Devedor;Nao;Sim;Sim;5880,04;5880,04
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;248;Nao;Devedor;Nao;Nao;Sim;5345,49;5345,49
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;CLARO;688;Sim;Quitado;Nao;Nao;Nao;203872,61;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;179;Sim;Quitado;Nao;Nao;Nao;7890,24;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Devedor;Nao;Nao;Nao;2672,75;2672,75
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;ALGAR;534;Sim;Quitado;Nao;Nao;Nao;56689,53;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;161;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;120;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;224;Nao;Devedor;Nao;Nao;Nao;5452,59;5452,59
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;272;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;291;Nao;Devedor;Nao;Nao;Nao;5545,49;5545,49
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;182;Sim;Quitado;Nao;Nao;Nao;1875,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;230;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SMP;CLARO;534;Sim;Quitado;Nao;Nao;Nao;1875,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;101;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;92;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;152;Nao;Devedor;Nao;Sim;Sim;6949,14;6949,14
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;215;Nao;Quitado;Nao;Nao;Nao;558,67;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;243;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;735;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;145;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;472;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;333;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;201;Nao;Parcial;Nao;Nao;Nao;2539,11;1925,22
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;200;Nao;Devedor;Nao;Nao;Nao;2271,83;2271,83
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;462;Nao;Quitado;Nao;Nao;Sim;1196,04;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;261;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;316;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;123;Nao;Parcial;Nao;Sim;Sim;2152,87;2070,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OI;634;Nao;Devedor;Nao;Sim;Sim;265242,67;265242,67
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;203;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;113;Nao;Devedor;Nao;Sim;Nao;2405,47;2405,47
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;113;Sim;Quitado;Nao;Nao;Nao;1937,45;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;260;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;196;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Parcial;Nao;Sim;Nao;5345,49;1655,24
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;356;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Quitado;Nao;Nao;Nao;2138,20;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;182;Nao;Devedor;Nao;Nao;Nao;5003,38;5003,38
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;121;Nao;Quitado;Nao;Nao;Nao;5078,22;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;155;Nao;Parcial;Nao;Nao;Nao;5078,22;4728,49
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;239;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;202;Nao;Parcial;Nao;Sim;Sim;4810,94;4329,30
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;268;Nao;Quitado;Nao;Nao;Nao;2392,08;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;TELEFÔNICA;61;Sim;Quitado;Nao;Nao;Nao;1156,03;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;264;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;188;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;553;Nao;Devedor;Nao;Nao;Nao;78940,00;78940,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;147;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;316;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;STFC;OI;571;Nao;Devedor;Nao;Sim;Sim;2500,00;2500,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;217;Nao;Quitado;Nao;Nao;Nao;2152,87;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;211;Nao;Quitado;Nao;Nao;Nao;2152,87;0,00
+5,35E+14;SCO;Direitos do Consumidor - SeAC;SeAC;OUTROS;613;Sim;Quitado;Nao;Nao;Nao;8025,32;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;382;Nao;Parcial;Nao;Sim;Sim;2672,75;2625,04
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;214;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;883;Nao;Parcial;Nao;Nao;Nao;5345,49;5451,33
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;188;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;374;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;154;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;156;Nao;Quitado;Nao;Nao;Nao;797,36;0,00
+5,35E+14;SFI;Irregularidade Técnica;STFC;OI;566;Nao;Devedor;Nao;Sim;Sim;15000,00;15000,00
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;TELEFÔNICA;751;Sim;Quitado;Nao;Nao;Nao;302743,76;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;410;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;192;Sim;Quitado;Nao;Nao;Nao;1603,65;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;194;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;172;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;OI;587;Nao;Devedor;Nao;Sim;Sim;23318,19;23318,19
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;166;Nao;Quitado;Nao;Nao;Nao;2539,11;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;160;Sim;Quitado;Nao;Nao;Nao;453,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;146;Nao;Devedor;Nao;Nao;Sim;2478,27;2478,27
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Parcial;Nao;Sim;Nao;2405,47;2204,08
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;234;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Obstrução à Fiscalização;SMP;TELEFÔNICA;426;Sim;Quitado;Nao;Nao;Nao;170156,25;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;182;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Irregularidade Técnica;SMP;TELEFÔNICA;291;Sim;Quitado;Nao;Nao;Nao;22500,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;202;Nao;Parcial;Nao;Sim;Sim;2405,47;1398,12
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;251;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;146;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;133;Nao;Quitado;Nao;Nao;Nao;2585,47;0,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;TIM;218;Sim;Quitado;Nao;Nao;Nao;68986,08;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;196;Sim;Quitado;Nao;Nao;Nao;1875,00;0,00
+5,35E+14;SCO;Interconexão;STFC;TELEFÔNICA;836;Sim;Quitado;Nao;Nao;Nao;152663,15;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;160;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;149;Nao;Parcial;Nao;Sim;Sim;6775,48;5325,70
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;171;Nao;Parcial;Nao;Nao;Nao;4543,67;3939,74
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;206;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;171;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;459;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;203;Nao;Quitado;Nao;Nao;Nao;11243,14;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;310;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;197;Sim;Quitado;Nao;Nao;Nao;403,66;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;168;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;167;Nao;Devedor;Nao;Sim;Sim;5745,49;5745,49
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;464;Nao;Devedor;Nao;Sim;Nao;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;601;Nao;Devedor;Nao;Nao;Nao;12817,87;12817,87
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;328;Sim;Quitado;Nao;Nao;Nao;15682,50;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;203;Nao;Parcial;Nao;Nao;Nao;2271,83;2055,24
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;202;Sim;Quitado;Nao;Nao;Nao;403,66;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;165;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;152;Nao;Devedor;Nao;Nao;Sim;440,00;440,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;604;Nao;Devedor;Nao;Nao;Nao;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;428;Nao;Quitado;Nao;Nao;Nao;20000,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;853;Nao;Devedor;Nao;Nao;Nao;339900,00;339900,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;345;Nao;Devedor;Nao;Nao;Nao;330330,00;330330,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;315;Nao;Devedor;Nao;Nao;Nao;3368,93;3368,93
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;462;Nao;Devedor;Nao;Sim;Sim;6958,26;6958,26
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;652;Nao;Devedor;Nao;Sim;Sim;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;264;Nao;Devedor;Nao;Nao;Nao;44195,09;44195,09
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;254;Sim;Quitado;Nao;Nao;Nao;15000,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;285;Sim;Quitado;Nao;Nao;Nao;9805,67;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;250;Nao;Devedor;Nao;Sim;Sim;11222,05;11222,05
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;230;Nao;Devedor;Nao;Nao;Nao;16459,11;16459,11
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;738;Nao;Devedor;Nao;Nao;Nao;30471,94;30471,94
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;420;Nao;Devedor;Nao;Sim;Sim;20200,00;20200,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;414;Nao;Quitado;Nao;Nao;Nao;8429,28;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;252;Sim;Quitado;Nao;Nao;Nao;38250,00;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;251;Nao;Devedor;Nao;Nao;Nao;333300,00;333300,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;245;Nao;Devedor;Nao;Sim;Sim;100000,00;100000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;138;Nao;Devedor;Nao;Sim;Sim;20200,00;20200,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;230;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;590;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;803;Nao;Devedor;Nao;Nao;Nao;22200,00;22200,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;673;Nao;Quitado;Nao;Nao;Nao;5078,22;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;219;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;150;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SCO;Direitos do Consumidor - STFC;SCM;TELEFÔNICA;343;Sim;Quitado;Nao;Nao;Nao;1875,00;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SMP;TIM;757;Sim;Quitado;Nao;Nao;Nao;24590,05;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;592;Nao;Quitado;Nao;Nao;Nao;2392,56;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;238;Nao;Quitado;Nao;Nao;Nao;2593,11;0,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;235;Nao;Quitado;Nao;Nao;Nao;3000,00;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;213;Sim;Quitado;Nao;Nao;Nao;3808,66;0,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;208;Nao;Quitado;Nao;Nao;Nao;1125,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Devedor;Nao;Sim;Nao;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;168;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;306;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;231;Nao;Quitado;Nao;Nao;Nao;4859,05;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;168;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;128;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;278;Nao;Parcial;Nao;Sim;Sim;5880,04;4795,18
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;183;Nao;Quitado;Nao;Nao;Nao;598,02;0,00
+5,35E+14;SCO;Interconexão;STFC;OUTROS;683;Nao;Devedor;Nao;Nao;Nao;193052,32;193052,32
+5,35E+14;SFI;Não Outorgado - Serviço;STFC;OUTROS;698;Nao;Parcial;Nao;Nao;Nao;2802,71;35,75
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;222;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;146;Nao;Devedor;Nao;Nao;Nao;27500,00;27500,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;134;Sim;Quitado;Nao;Nao;Nao;1603,65;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;247;Sim;Quitado;Nao;Nao;Nao;335,20;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;136;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;183;Nao;Quitado;Nao;Nao;Nao;538,22;0,00
+5,36E+14;SFI;Oferta de Serviço - SCM;SCM;OUTROS;100;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Quitado;Nao;Nao;Nao;2271,83;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;242;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;242;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Devedor;Nao;Sim;Sim;4543,67;4543,67
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;168;Nao;Devedor;Nao;Sim;Sim;2699,47;2699,47
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;335;Nao;Parcial;Nao;Nao;Nao;5078,22;3783,78
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;216;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;237;Nao;Quitado;Nao;Nao;Nao;446,93;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Sim;Quitado;Nao;Nao;Nao;400,91;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Quitado;Nao;Nao;Nao;3597,31;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;168;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;153;Sim;Quitado;Nao;Nao;Nao;897,21;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;197;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;183;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;162;Nao;Quitado;Nao;Nao;Nao;598,02;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OI;715;Nao;Devedor;Nao;Nao;Nao;5000,00;5000,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;206;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;153;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;198;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;150;Nao;Parcial;Nao;Nao;Nao;2672,75;1751,36
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;258;Nao;Devedor;Nao;Sim;Nao;2940,02;2940,02
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;190;Nao;Parcial;Nao;Sim;Sim;5595,49;5408,62
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;710;Nao;Parcial;Nao;Nao;Nao;5345,49;5240,92
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;699;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;224;Nao;Quitado;Nao;Nao;Nao;5078,22;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;264;Nao;Devedor;Nao;Sim;Nao;2672,75;2672,75
+5,35E+14;SCO;Interconexão;STFC;OUTROS;733;Nao;Quitado;Nao;Nao;Nao;1091,33;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;644;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;294;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;192;Nao;Devedor;Nao;Sim;Sim;23548,80;23548,80
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;211;Nao;Parcial;Nao;Nao;Nao;2672,75;1855,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;362;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;133;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;121;Sim;Quitado;Nao;Nao;Nao;149482,50;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;685;Nao;Quitado;Nao;Nao;Nao;1625,05;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;176;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;193;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;313;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;180;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;140;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;219;Nao;Devedor;Nao;Sim;Nao;2405,47;2405,47
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;321;Nao;Devedor;Nao;Sim;Nao;2672,75;2672,75
+5,35E+14;SFI;Obstrução à Fiscalização;SMP;TELEFÔNICA;432;Sim;Quitado;Nao;Nao;Nao;37815,75;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;280;Nao;Devedor;Nao;Sim;Nao;2672,75;2672,75
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;202;Nao;Quitado;Nao;Nao;Nao;3470,10;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;200;Sim;Quitado;Nao;Nao;Nao;2004,57;0,00
+5,35E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;OI;958;Nao;Devedor;Nao;Nao;Nao;43185,60;43185,60
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;336;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;193;Nao;Quitado;Nao;Nao;Nao;2271,83;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;213;Nao;Devedor;Nao;Sim;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;818;Nao;Devedor;Nao;Nao;Nao;2872,75;2872,75
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;244;Nao;Devedor;Nao;Sim;Sim;1306,04;1306,04
+5,36E+14;SFI;Oferta de Serviço - SCM;SCM;OUTROS;155;Nao;Devedor;Nao;Nao;Nao;2539,11;2539,11
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;434;Sim;Quitado;Nao;Nao;Nao;1998,56;0,00
+5,36E+14;SFI;Oferta de Serviço - SCM;SCM;OUTROS;189;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;190;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;167;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,35E+14;SCO;Transferência Irregular de Outorga;SCM;OUTROS;865;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;169;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;161;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Irregularidade Técnica;SeAC;OUTROS;214;Nao;Quitado;Nao;Nao;Nao;268,16;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;210;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;214;Nao;Parcial;Nao;Sim;Sim;2672,75;2496,66
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;172;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;221;Sim;Quitado;Nao;Nao;Nao;3608,21;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;153;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;349;Nao;Devedor;Nao;Sim;Sim;6697,98;6697,98
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;581;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;214;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SCO;Universalização;STFC;OUTROS;772;Sim;Quitado;Nao;Nao;Nao;2250,00;0,00
+5,35E+14;SCO;Universalização;STFC;SERCOMTEL;772;Sim;Quitado;Nao;Nao;Nao;2250,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;166;Nao;Quitado;Nao;Nao;Nao;1196,28;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;247;Nao;Parcial;Nao;Sim;Nao;492,74;307,96
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;246;Nao;Parcial;Nao;Nao;Nao;2672,75;432,24
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;168;Sim;Quitado;Nao;Nao;Nao;717,78;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;199;Sim;Quitado;Nao;Nao;Nao;1804,11;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;439;Sim;Quitado;Nao;Nao;Nao;2038,31;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;488;Nao;Parcial;Nao;Sim;Sim;5345,49;2662,36
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;187;Nao;Devedor;Nao;Sim;Nao;2405,47;2405,47
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;195;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;181;Sim;Quitado;Nao;Nao;Nao;1826,72;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;371;Nao;Parcial;Nao;Nao;Nao;4810,94;3351,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;288;Nao;Parcial;Nao;Nao;Nao;2940,02;816,62
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;149;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;114;Nao;Parcial;Nao;Nao;Nao;4810,94;4044,33
+5,35E+14;SCO;Remuneração de Redes;STFC;OUTROS;958;Nao;Devedor;Nao;Nao;Nao;90383,56;90383,56
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;308;Nao;Devedor;Nao;Sim;Nao;2271,83;2271,83
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;133;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;258;Nao;Devedor;Nao;Nao;Nao;6843,20;6843,20
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;196;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;224;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;349;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;196;Nao;Parcial;Nao;Sim;Sim;5595,49;5319,23
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;169;Sim;Quitado;Nao;Nao;Nao;7807,73;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;216;Nao;Quitado;Nao;Nao;Nao;858,22;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;185;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Interconexão;STFC;OUTROS;1019;Sim;Quitado;Nao;Nao;Nao;15064,88;0,00
+5,35E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;CLARO;1006;Sim;Quitado;Nao;Nao;Nao;2160,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;251;Sim;Quitado;Nao;Nao;Nao;1603,65;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;790;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;347;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;196;Nao;Quitado;Nao;Nao;Nao;1052,73;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;726;Nao;Parcial;Nao;Nao;Sim;2672,75;2544,25
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;170;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Interconexão;STFC;OUTROS;472;Nao;Devedor;Nao;Sim;Sim;78657,06;78657,06
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;178;Sim;Quitado;Nao;Nao;Nao;2218,26;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;181;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;167;Nao;Parcial;Nao;Sim;Sim;2405,47;2104,89
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;763;Sim;Quitado;Nao;Nao;Nao;3808,67;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;670;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,35E+14;SCO;Obrigações Legais e Contratuais;SMP;OI;630;Nao;Devedor;Nao;Sim;Sim;168419,95;168419,95
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;711;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;288;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;222;Sim;Quitado;Nao;Nao;Nao;1603,65;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;194;Nao;Parcial;Nao;Nao;Nao;5345,49;2968,34
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;187;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;126;Nao;Devedor;Nao;Sim;Nao;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;660;Nao;Quitado;Nao;Nao;Nao;2153,31;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;176;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;713;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Certificação de Produtos;SMP;OUTROS;259;Nao;Devedor;Nao;Sim;Nao;3500,00;3500,00
+5,35E+14;SCO;Interconexão;STFC;OUTROS;930;Sim;Quitado;Nao;Nao;Nao;64676,34;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;739;Nao;Quitado;Nao;Nao;Nao;4164,12;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;419;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;176;Nao;Quitado;Nao;Nao;Nao;1315,90;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;169;Sim;Quitado;Nao;Nao;Nao;480,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;TIM;348;Sim;Quitado;Nao;Nao;Nao;6255,20;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;183;Sim;Quitado;Nao;Nao;Nao;2004,57;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;174;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Remuneração de Redes;STFC;OUTROS;744;Nao;Devedor;Nao;Sim;Sim;1600000,00;1600000,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;320;Nao;Devedor;Nao;Sim;Nao;5345,49;5345,49
+5,35E+14;SCO;Interconexão;STFC;OUTROS;124;Nao;Devedor;Nao;Sim;Sim;55550,28;55550,28
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;151;Nao;Parcial;Nao;Nao;Nao;5595,49;797,38
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;224;Sim;Quitado;Nao;Nao;Nao;1794,42;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;210;Nao;Quitado;Nao;Nao;Nao;1435,54;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;990;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SCO;Universalização;STFC;OUTROS;464;Sim;Quitado;Nao;Nao;Nao;750,00;0,00
+5,35E+14;SCO;Universalização;STFC;SERCOMTEL;464;Sim;Quitado;Nao;Nao;Nao;750,00;0,00
+5,35E+14;SCO;Interconexão;STFC;TELEFÔNICA;513;Nao;Devedor;Sim;Nao;Nao;419088,60;419088,60
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;159;Nao;Parcial;Nao;Nao;Nao;5345,49;743,81
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;152;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;160;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;117;Nao;Quitado;Nao;Nao;Nao;5586,04;0,00
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;690;Sim;Quitado;Nao;Nao;Nao;293,23;0,00
+5,35E+14;SCO;Serviço de Utilidade Pública;STFC;OI;1001;Nao;Devedor;Nao;Nao;Nao;25268,13;25268,13
+5,36E+14;SFI;Certificação de Produtos;SMP;OUTROS;186;Nao;Devedor;Nao;Sim;Nao;3750,00;3750,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;824;Nao;Devedor;Nao;Nao;Nao;1629,20;1629,20
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;407;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;190;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;188;Nao;Quitado;Nao;Nao;Nao;2392,56;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;181;Nao;Quitado;Nao;Nao;Nao;534,55;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;88;Nao;Quitado;Nao;Nao;Nao;1076,43;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;125;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;208;Nao;Quitado;Nao;Nao;Nao;2872,75;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;182;Sim;Quitado;Nao;Nao;Nao;2662,69;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;161;Nao;Parcial;Nao;Nao;Nao;5543,67;4827,70
+5,35E+14;SFI;Certificação de Produtos;SCM;ALGAR;751;Nao;Devedor;Nao;Nao;Nao;27500,00;27500,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;178;Nao;Quitado;Nao;Nao;Nao;598,02;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;133;Nao;Quitado;Nao;Nao;Nao;598,02;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;185;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;228;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;754;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;144;Sim;Quitado;Nao;Nao;Nao;5205,16;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;268;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;75;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Competição;SCM;CLARO;929;Sim;Quitado;Nao;Nao;Nao;44792,42;0,00
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;922;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SCO;Alteração Societária;SCM;OUTROS;914;Nao;Quitado;Nao;Nao;Nao;159,55;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SCM;OUTROS;975;Nao;Devedor;Nao;Nao;Nao;866,03;866,03
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;190;Nao;Parcial;Nao;Sim;Sim;6775,48;3668,69
+5,35E+14;SCO;Numeração;SMP;CLARO;840;Sim;Quitado;Nao;Nao;Nao;1875,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;683;Nao;Quitado;Nao;Nao;Sim;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;414;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SMP;OUTROS;180;Sim;Quitado;Nao;Nao;Nao;1794,06;0,00
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;184;Nao;Quitado;Nao;Nao;Nao;2872,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;561;Nao;Parcial;Nao;Nao;Nao;5899,18;5899,18
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;461;Sim;Quitado;Nao;Nao;Nao;3808,67;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;216;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;188;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;188;Nao;Devedor;Nao;Sim;Sim;2940,02;2940,02
+5,35E+14;SCO;Portabilidade Numérica;STFC;OUTROS;520;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Parcial;Nao;Sim;Sim;4810,94;4318,06
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;238;Nao;Quitado;Nao;Nao;Nao;5880,04;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;179;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;147;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;143;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;252;Nao;Parcial;Nao;Sim;Sim;4543,67;3361,96
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;118;Nao;Devedor;Nao;Sim;Sim;7009,61;7009,61
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;188;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SCO;Ressarcimento - STFC;STFC;OI;1142;Nao;Devedor;Nao;Nao;Nao;312349,69;312349,69
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;168;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;153;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;922;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;725;Nao;Parcial;Nao;Nao;Sim;5880,04;5165,67
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;383;Nao;Quitado;Nao;Nao;Nao;356,15;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;267;Sim;Quitado;Nao;Nao;Nao;3607,30;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Parcial;Nao;Sim;Sim;2405,47;1705,80
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1008;Nao;Devedor;Nao;Nao;Nao;2940,02;2940,02
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;187;Nao;Parcial;Nao;Sim;Sim;2405,47;2271,94
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;183;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;603;Nao;Devedor;Nao;Nao;Nao;1629,20;1629,20
+5,35E+14;SCO;Remuneração de Redes;STFC;OUTROS;817;Nao;Devedor;Nao;Nao;Nao;56312,54;56312,54
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;CLARO;411;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;201;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;201;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;190;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;528;Nao;Devedor;Nao;Nao;Nao;637042,32;637042,32
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;203;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;197;Nao;Devedor;Nao;Sim;Sim;7190,21;7190,21
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;159;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;79;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;926;Nao;Parcial;Nao;Nao;Nao;2000,00;24,91
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;119;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;114;Nao;Devedor;Nao;Sim;Sim;6089,07;6089,07
+5,35E+14;SCO;Transferência Irregular de Outorga;SCM;OUTROS;990;Sim;Quitado;Nao;Nao;Nao;484,80;0,00
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;250;Nao;Devedor;Nao;Nao;Nao;3321,09;3321,09
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;863;Nao;Devedor;Nao;Sim;Sim;5880,04;5880,04
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;499;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;150;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;151;Sim;Quitado;Nao;Nao;Nao;3808,66;0,00
+5,35E+14;SCO;Numeração;STFC;OI;841;Nao;Devedor;Nao;Sim;Sim;130509,13;130509,13
+5,35E+14;SCO;Numeração;SMP;OI;735;Nao;Devedor;Nao;Sim;Sim;168419,95;168419,95
+5,35E+14;SCO;Obrigações Legais e Contratuais;STFC;OI;576;Nao;Devedor;Nao;Sim;Sim;61416,06;61416,06
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;614;Nao;Devedor;Nao;Sim;Sim;2628,90;2628,90
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;555;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;268;Nao;Parcial;Nao;Nao;Sim;2940,02;1992,16
+5,35E+14;SCO;Interconexão;STFC;OI;1101;Nao;Devedor;Nao;Nao;Nao;610076,88;610076,88
+5,35E+14;SCO;Interconexão;STFC;OI;843;Nao;Devedor;Nao;Sim;Sim;3045213,20;3045213,20
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;156;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,35E+14;SCO;Interconexão;STFC;OI;911;Nao;Devedor;Nao;Sim;Sim;40930,71;40930,71
+5,35E+14;SCO;Remuneração de Redes;STFC;OUTROS;589;Nao;Devedor;Nao;Sim;Sim;7065,57;7065,57
+5,35E+14;SCO;Bens Reversíveis;STFC;OUTROS;518;Sim;Quitado;Nao;Nao;Nao;11700,00;0,00
+5,35E+14;SCO;Bens Reversíveis;STFC;SERCOMTEL;518;Sim;Quitado;Nao;Nao;Nao;11700,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;178;Nao;Devedor;Nao;Sim;Sim;3472,75;3472,75
+5,35E+14;SFI;Irregularidade Técnica;SMP;TELEFÔNICA;343;Sim;Quitado;Nao;Nao;Nao;5635,66;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1043;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;449;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;190;Nao;Devedor;Nao;Nao;Nao;4810,94;4810,94
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;183;Nao;Devedor;Nao;Sim;Nao;6028,18;6028,18
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;131;Nao;Parcial;Nao;Nao;Nao;6775,48;4126,82
+5,35E+14;SFI;Irregularidade Técnica;SMP;TIM;477;Sim;Quitado;Nao;Nao;Nao;6300,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;160;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Devedor;Nao;Nao;Sim;4810,94;4810,94
+5,35E+14;SFI;Irregularidade Técnica;SMP;OI;1106;Nao;Devedor;Nao;Nao;Nao;11000,00;11000,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OI;1239;Nao;Devedor;Nao;Nao;Nao;504904,75;504904,75
+5,35E+14;SFI;Irregularidade Técnica;STFC;TELEFÔNICA;204;Sim;Quitado;Nao;Nao;Nao;11271,32;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;393;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;210;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;195;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;520;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;121;Sim;Quitado;Nao;Nao;Nao;3608,21;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;518;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;602;Nao;Devedor;Nao;Nao;Sim;4543,67;4543,67
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;199;Sim;Quitado;Nao;Nao;Nao;2602,57;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;223;Nao;Parcial;Nao;Sim;Sim;5345,49;3294,20
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;124;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SCM;OUTROS;915;Nao;Devedor;Nao;Sim;Sim;17973,78;17973,78
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;966;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;161;Nao;Parcial;Nao;Nao;Sim;4543,67;2858,05
+5,35E+14;SFI;Certificação de Produtos;SeAC;OUTROS;137;Nao;Quitado;Nao;Nao;Nao;3333,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;125;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;496;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;238;Nao;Parcial;Nao;Nao;Nao;5345,49;17,58
+5,35E+14;SCO;Descumprimento de Determinação;SMP;TELEFÔNICA;839;Nao;Quitado;Nao;Nao;Nao;251081,07;0,00
+5,35E+14;SCO;Remuneração de Redes;STFC;OUTROS;309;Nao;Devedor;Nao;Sim;Sim;404987,58;404987,58
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;279;Nao;Quitado;Nao;Nao;Sim;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;160;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;155;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;106;Nao;Parcial;Nao;Nao;Nao;2405,47;1444,45
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;431;Nao;Parcial;Nao;Nao;Nao;5345,49;3605,99
+5,35E+14;SCO;Obrigações Legais e Contratuais;SCM;OUTROS;1146;Nao;Devedor;Nao;Nao;Nao;183189,40;183189,40
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;621;Nao;Parcial;Nao;Nao;Nao;2672,75;1923,90
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;199;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;927;Nao;Quitado;Nao;Nao;Sim;2672,75;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;160;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;96;Sim;Quitado;Nao;Nao;Nao;1703,96;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;448;Nao;Devedor;Nao;Nao;Nao;4543,67;4543,67
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;259;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;180;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;161;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;542;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;91;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;213;Nao;Quitado;Nao;Nao;Sim;1779,44;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;671;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;251;Sim;Quitado;Nao;Nao;Nao;750,00;0,00
+5,35E+14;SCO;Atendimento - SCM;SCM;OUTROS;439;Sim;Quitado;Nao;Nao;Nao;889,23;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;617;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Cancelamento de Serviço - SeAC;SeAC;SKY;244;Sim;Quitado;Nao;Nao;Nao;12920,75;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;587;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;SCM;OUTROS;477;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Atendimento - SCM;SCM;OUTROS;462;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;90;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;191;Nao;Parcial;Nao;Nao;Nao;2672,75;2221,59
+5,36E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;208;Nao;Quitado;Nao;Nao;Nao;4164,12;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;198;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;269;Nao;Devedor;Nao;Sim;Sim;20000,00;20000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;337;Nao;Devedor;Nao;Sim;Sim;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;423;Nao;Devedor;Nao;Sim;Sim;20200,00;20200,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;335;Nao;Devedor;Nao;Nao;Nao;330000,00;330000,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;223;Nao;Quitado;Nao;Nao;Nao;3068,20;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;225;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;213;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;359;Nao;Devedor;Nao;Sim;Sim;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;261;Nao;Devedor;Nao;Sim;Sim;333300,00;333300,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;260;Nao;Devedor;Nao;Sim;Sim;330000,00;330000,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;226;Sim;Quitado;Nao;Nao;Nao;1794,06;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;363;Nao;Devedor;Nao;Sim;Sim;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;328;Nao;Devedor;Nao;Sim;Sim;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;264;Nao;Devedor;Nao;Sim;Sim;330000,00;330000,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;417;Nao;Parcial;Nao;Nao;Nao;20000,00;19077,29
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;328;Nao;Devedor;Nao;Sim;Sim;302940,00;302940,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;217;Nao;Devedor;Nao;Sim;Sim;339900,00;339900,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;220;Nao;Devedor;Nao;Sim;Sim;12817,87;12817,87
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;943;Sim;Quitado;Nao;Nao;Nao;15000,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;239;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,35E+14;SCO;Tarifação - SMP;SMP;TELEFÔNICA;944;Nao;Quitado;Nao;Nao;Nao;531717,82;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;197;Sim;Quitado;Nao;Nao;Nao;400,91;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;302;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;207;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;208;Nao;Quitado;Nao;Nao;Sim;5078,22;0,00
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;203;Sim;Quitado;Nao;Nao;Nao;1211,25;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;204;Nao;Quitado;Nao;Nao;Nao;5175,71;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;238;Nao;Devedor;Nao;Nao;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;358;Nao;Quitado;Nao;Nao;Nao;1076,43;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;180;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SCO;Tarifação - SMP;SMP;OI;967;Nao;Devedor;Nao;Sim;Sim;36078,87;36078,87
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;222;Sim;Quitado;Nao;Nao;Nao;3808,66;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;218;Nao;Quitado;Nao;Nao;Nao;5078,22;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;182;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;178;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;158;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;188;Nao;Quitado;Nao;Nao;Nao;5078,22;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;210;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;456;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;251;Nao;Devedor;Nao;Sim;Sim;2940,02;2940,02
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;211;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;201;Nao;Parcial;Nao;Nao;Sim;5345,49;5149,68
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Quitado;Nao;Nao;Sim;5880,04;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;965;Nao;Quitado;Nao;Nao;Nao;2021,32;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;300;Nao;Quitado;Nao;Nao;Nao;223,47;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;231;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;245;Nao;Quitado;Nao;Nao;Nao;614,53;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;148;Nao;Quitado;Nao;Nao;Nao;4164,12;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;188;Nao;Quitado;Nao;Nao;Sim;2672,75;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;181;Nao;Quitado;Nao;Nao;Nao;3300,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;83;Sim;Quitado;Nao;Nao;Nao;3123,09;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;560;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;195;Sim;Quitado;Nao;Nao;Nao;3903,87;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;160;Nao;Quitado;Nao;Nao;Nao;2539,11;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;557;Nao;Parcial;Nao;Nao;Nao;4810,94;4195,70
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;214;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,35E+14;SFI;Irregularidade Técnica;SeAC;OUTROS;400;Nao;Devedor;Nao;Sim;Sim;5452,40;5452,40
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;188;Nao;Devedor;Nao;Nao;Sim;600,00;600,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;621;Sim;Quitado;Nao;Nao;Nao;750,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Irregularidade Técnica;SMP;OUTROS;637;Nao;Parcial;Nao;Sim;Sim;1186,43;296,60
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;533;Nao;Quitado;Nao;Nao;Nao;5738,40;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;484;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;97;Sim;Quitado;Nao;Nao;Nao;3303,09;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;504;Nao;Quitado;Nao;Nao;Sim;2672,75;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;379;Nao;Devedor;Nao;Sim;Nao;5345,49;5345,49
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;193;Nao;Quitado;Nao;Nao;Nao;950,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;250;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;392;Sim;Quitado;Nao;Nao;Nao;750,00;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;368;Nao;Devedor;Nao;Sim;Sim;6940,21;6940,21
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;660;Nao;Devedor;Nao;Nao;Nao;534,55;534,55
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;220;Sim;Quitado;Nao;Nao;Nao;3808,67;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;503;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;340;Nao;Quitado;Nao;Nao;Nao;110,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;455;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;341;Sim;Quitado;Nao;Nao;Nao;1500,00;0,00
+5,35E+14;SFI;Irregularidade Técnica;SeAC;OUTROS;237;Nao;Parcial;Nao;Sim;Sim;3470,10;3348,22
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;179;Nao;Quitado;Nao;Nao;Nao;5880,04;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;293;Sim;Quitado;Nao;Nao;Nao;2212,19;0,00
+5,35E+14;SCO;Sem tipologia definida;SMP;OI;197;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;358;Nao;Devedor;Nao;Sim;Sim;20000,00;20000,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;605;Nao;Quitado;Nao;Nao;Nao;640,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;241;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;158;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;202;Nao;Devedor;Nao;Sim;Nao;2672,75;2672,75
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;245;Nao;Devedor;Nao;Sim;Sim;6940,21;6940,21
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;TIM;548;Sim;Quitado;Nao;Nao;Nao;1500,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;223;Nao;Parcial;Nao;Nao;Sim;5345,49;5122,76
+5,35E+14;SFI;Irregularidade Técnica;SMP;OI;203;Sim;Quitado;Nao;Nao;Nao;6406,34;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;726;Sim;Quitado;Nao;Nao;Nao;660,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;941;Sim;Quitado;Nao;Nao;Nao;32372,50;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;917;Sim;Quitado;Nao;Nao;Nao;4687,50;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;944;Nao;Quitado;Nao;Nao;Nao;960,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;789;Sim;Quitado;Nao;Nao;Nao;6000,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;633;Sim;Quitado;Nao;Nao;Nao;2689,82;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;761;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;917;Sim;Quitado;Nao;Nao;Nao;4164,01;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;466;Sim;Quitado;Nao;Nao;Nao;4687,50;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;620;Nao;Quitado;Nao;Nao;Nao;1920,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;BAHIASAT;633;Sim;Quitado;Nao;Nao;Nao;165,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;795;Sim;Quitado;Nao;Nao;Nao;8792,58;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;763;Nao;Devedor;Nao;Nao;Nao;13630,21;13630,21
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OI;395;Nao;Quitado;Nao;Nao;Nao;5921,61;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;916;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;561;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;551;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;210;Nao;Parcial;Nao;Nao;Sim;5345,49;5124,11
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;296;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;212;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,36E+14;SFI;Irregularidade Técnica e Certificação;SCM;OUTROS;240;Sim;Quitado;Nao;Nao;Nao;660,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;253;Nao;Devedor;Nao;Sim;Sim;9900,00;9900,00
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;TELEFÔNICA;1023;Sim;Quitado;Nao;Nao;Nao;2754472,34;0,00
+5,35E+14;SCO;Bens Reversíveis;STFC;TELEFÔNICA;702;Sim;Quitado;Nao;Nao;Nao;54900,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;TELEFÔNICA;970;Nao;Devedor;Sim;Nao;Sim;1537013,69;1537013,69
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;991;Nao;Devedor;Nao;Sim;Sim;99446,16;99446,16
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;730;Sim;Quitado;Nao;Nao;Nao;2310,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1237;Nao;Devedor;Nao;Nao;Nao;10896,38;10896,38
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ACOM;778;Nao;Quitado;Nao;Nao;Nao;13640,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OI;752;Sim;Quitado;Nao;Nao;Nao;95625,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;403;Nao;Parcial;Nao;Sim;Sim;660,00;172,38
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ALGAR;665;Sim;Quitado;Nao;Nao;Nao;113281,67;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;CABLE.COM;638;Nao;Quitado;Nao;Nao;Nao;1280,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;CAMBÉ;485;Sim;Quitado;Nao;Nao;Nao;825,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;479;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;CABO CENTRO-MINAS;730;Sim;Quitado;Nao;Nao;Nao;4800,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;627;Sim;Quitado;Nao;Nao;Nao;19627,80;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;TELEFÔNICA;480;Sim;Quitado;Nao;Nao;Nao;1301681,56;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;990;Nao;Devedor;Nao;Sim;Nao;29572,98;29572,98
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ABRIL;1109;Nao;Quitado;Nao;Nao;Nao;5777,18;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ALPHAVILLE;612;Sim;Quitado;Nao;Nao;Nao;23265,82;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;224;Nao;Devedor;Nao;Sim;Sim;2740,08;2740,08
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;277;Nao;Devedor;Nao;Sim;Nao;440,00;440,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;190;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;237;Nao;Devedor;Nao;Sim;Sim;5078,22;5078,22
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;216;Nao;Parcial;Nao;Nao;Sim;2672,75;2148,55
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;632;Nao;Devedor;Nao;Nao;Nao;2271,83;2271,83
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;255;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;216;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;198;Nao;Quitado;Nao;Nao;Sim;4810,94;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;175;Nao;Devedor;Nao;Sim;Sim;5480,16;5480,16
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;205;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;196;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;158;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;306;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Atendimento - SCM;SCM;OUTROS;201;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;154;Nao;Devedor;Nao;Sim;Sim;5398,95;5398,95
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1219;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;222;Nao;Devedor;Nao;Nao;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;104;Nao;Quitado;Nao;Nao;Nao;5315,16;0,00
+5,35E+14;SFI;Atendimento - SCM;SCM;OUTROS;210;Nao;Parcial;Nao;Nao;Nao;5345,49;4987,22
+5,35E+14;SFI;Atendimento - SCM;SCM;OUTROS;163;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;94;Nao;Quitado;Nao;Nao;Nao;510,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;331;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;204;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Irregularidade Técnica;SeAC;OUTROS;463;Nao;Quitado;Nao;Nao;Nao;6940,21;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;239;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;210;Nao;Parcial;Nao;Nao;Nao;5345,49;2434,57
+5,35E+14;SCO;Gestão da Qualidade - SMP;SMP;ALGAR;1329;Nao;Quitado;Nao;Nao;Nao;54722,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;160;Nao;Devedor;Nao;Nao;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SeAC;OUTROS;139;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;118;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;258;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;STFC;OUTROS;556;Nao;Devedor;Nao;Sim;Sim;3820,63;3820,63
+5,35E+14;SCO;Home Passed;SeAC;OUTROS;938;Nao;Devedor;Nao;Sim;Sim;1529,32;1529,32
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1132;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;397;Sim;Quitado;Nao;Nao;Nao;457,82;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;261;Nao;Parcial;Nao;Sim;Nao;2672,75;1554,59
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;204;Nao;Quitado;Nao;Nao;Nao;6246,19;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Devedor;Nao;Sim;Nao;2672,75;2672,75
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;353;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;203;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;135;Nao;Quitado;Nao;Nao;Nao;110,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;91;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SCO;Descumprimento de Condicionamentos de Atos;SCM;OUTROS;248;Nao;Quitado;Nao;Nao;Nao;110,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SeAC;OUTROS;526;Sim;Quitado;Nao;Nao;Nao;2790,08;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;400;Sim;Quitado;Nao;Nao;Nao;3217,92;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;342;Nao;Devedor;Nao;Nao;Sim;5545,49;5545,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;203;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;170;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;216;Nao;Parcial;Nao;Sim;Sim;6940,21;5857,62
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;213;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Sem tipologia definida;STFC;TELEFÔNICA;347;Sim;Quitado;Nao;Nao;Nao;251990,02;0,00
+5,35E+14;SFI;Atendimento - SCM;SCM;OUTROS;201;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;258;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SCO;Competição;SCM;OUTROS;348;Sim;Quitado;Nao;Nao;Nao;46484,80;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;217;Nao;Quitado;Nao;Nao;Nao;2000,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;193;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;244;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SMP;OUTROS;152;Sim;Quitado;Nao;Nao;Nao;2153,30;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;294;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;195;Nao;Quitado;Nao;Nao;Nao;5292,04;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;226;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;330;Nao;Devedor;Nao;Sim;Sim;2940,02;2940,02
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;172;Nao;Devedor;Nao;Nao;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;161;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;160;Nao;Quitado;Nao;Nao;Nao;1435,54;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;OUTROS;218;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Irregularidade Técnica;STFC;OI;343;Nao;Devedor;Nao;Sim;Sim;5040,00;5040,00
+5,35E+14;SFI;Atendimento - SCM;SCM;OUTROS;181;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;175;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;173;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;154;Nao;Parcial;Nao;Nao;Sim;2672,75;2017,85
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;232;Nao;Devedor;Nao;Sim;Sim;6246,19;6246,19
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;129;Nao;Devedor;Nao;Nao;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;312;Sim;Quitado;Nao;Nao;Nao;750,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;159;Nao;Quitado;Nao;Nao;Nao;722,50;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1036;Nao;Parcial;Nao;Nao;Nao;6940,21;5624,25
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;389;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;299;Nao;Quitado;Nao;Nao;Nao;110,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;237;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;224;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;158;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;141;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;128;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;544;Nao;Quitado;Nao;Nao;Sim;2672,75;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;194;Nao;Parcial;Nao;Nao;Nao;6940,21;3672,52
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;320;Nao;Devedor;Nao;Nao;Sim;5880,04;5880,04
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1050;Nao;Devedor;Nao;Sim;Nao;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;189;Nao;Parcial;Nao;Sim;Sim;4810,94;695,68
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;163;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;104;Nao;Devedor;Nao;Nao;Sim;240,00;240,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;483;Nao;Quitado;Nao;Nao;Nao;608,91;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;203;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;184;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;174;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;237;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;575;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;245;Sim;Quitado;Nao;Nao;Nao;5205,15;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;554;Nao;Parcial;Nao;Nao;Nao;5345,49;4462,35
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;153;Nao;Quitado;Nao;Nao;Nao;220,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;170;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;188;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;175;Sim;Quitado;Nao;Nao;Nao;4410,03;0,00
+5,35E+14;SCO;Carregamento de Canais - SeAC;SeAC;ALPHAVILLE;965;Sim;Quitado;Nao;Nao;Nao;9917,50;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1084;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SCM;OUTROS;665;Nao;Quitado;Nao;Nao;Nao;3661,07;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;361;Nao;Devedor;Nao;Sim;Sim;892,50;892,50
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;182;Nao;Devedor;Nao;Sim;Sim;5595,49;5595,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;209;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;378;Sim;Quitado;Nao;Nao;Nao;4196,62;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;172;Sim;Quitado;Nao;Nao;Nao;3608,21;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;172;Nao;Parcial;Nao;Nao;Sim;5345,49;5256,41
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;630;Nao;Devedor;Nao;Nao;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;513;Nao;Quitado;Nao;Nao;Nao;6940,21;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;497;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;190;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;268;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;255;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;174;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;198;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;242;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;196;Nao;Quitado;Nao;Nao;Sim;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;161;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;102;Nao;Quitado;Nao;Nao;Nao;110,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;238;Nao;Quitado;Nao;Nao;Sim;3470,10;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;140;Nao;Quitado;Nao;Nao;Nao;7634,23;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;104;Nao;Quitado;Nao;Nao;Nao;6246,19;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;112;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;358;Nao;Devedor;Nao;Sim;Sim;13500,00;13500,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;284;Nao;Devedor;Nao;Sim;Nao;206,25;206,25
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;186;Nao;Devedor;Nao;Sim;Sim;5880,04;5880,04
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;168;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Licenciamento de Estação;SMP;NEXTEL;1096;Nao;Quitado;Nao;Nao;Nao;5000,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;215;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;1051;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;204;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Atendimento - SCM;SCM;OUTROS;232;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;118;Nao;Parcial;Nao;Sim;Sim;2672,75;2435,39
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;147;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;75;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;196;Nao;Parcial;Nao;Nao;Sim;15530,42;13711,37
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;301;Nao;Parcial;Nao;Sim;Sim;5345,49;4173,48
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;220;Nao;Quitado;Nao;Nao;Nao;5345,39;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;199;Nao;Parcial;Nao;Nao;Nao;5899,18;3955,29
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;197;Nao;Parcial;Nao;Sim;Sim;5345,49;4059,19
+5,35E+14;SFI;Sem tipologia definida;SeAC;OUTROS;160;Nao;Devedor;Nao;Sim;Sim;44505,05;44505,05
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;123;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;223;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;TIM;0;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;207;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SeAC;OUTROS;80;Nao;Quitado;Nao;Nao;Nao;6414,59;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;257;Nao;Devedor;Nao;Sim;Sim;6940,21;6940,21
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;204;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;202;Sim;Quitado;Nao;Nao;Nao;10341,11;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;166;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;212;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;251;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;205;Nao;Parcial;Nao;Nao;Nao;5078,22;4335,69
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;174;Nao;Parcial;Nao;Nao;Nao;5345,49;3316,40
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;131;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;131;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;112;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;205;Nao;Quitado;Nao;Nao;Nao;729,40;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1209;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SCM;OUTROS;599;Nao;Quitado;Nao;Nao;Nao;2993,47;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;215;Nao;Parcial;Nao;Nao;Sim;2405,47;2190,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;175;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;144;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;124;Nao;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;211;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,36E+14;SFI;Licenciamento de Estação;SCM;TIM;195;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;154;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,36E+14;SFI;Descumprimento de Determinação;SCM;OUTROS;1197;Nao;Devedor;Nao;Nao;Sim;6156,45;6156,45
+5,35E+14;SFI;Sem tipologia definida;SeAC;OUTROS;134;Nao;Devedor;Nao;Sim;Sim;42788,15;42788,15
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;236;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;151;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;470;Sim;Quitado;Nao;Nao;Nao;4725,00;0,00
+5,35E+14;SCO;Bens Reversíveis;STFC;TELEFÔNICA;1161;Sim;Quitado;Nao;Nao;Nao;16920,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;92;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;225;Nao;Parcial;Nao;Sim;Sim;2672,75;2628,36
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;74;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;246;Nao;Devedor;Nao;Nao;Nao;6940,21;6940,21
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;106;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;282;Nao;Devedor;Nao;Sim;Sim;5452,40;5452,40
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;140;Nao;Devedor;Nao;Sim;Sim;27500,00;27500,00
+5,35E+14;SFI;Descumprimento de Determinação;SCM;OUTROS;219;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;156;Nao;Quitado;Nao;Nao;Sim;10179,28;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;158;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1252;Nao;Devedor;Nao;Nao;Nao;2405,47;2405,47
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;198;Nao;Parcial;Nao;Nao;Sim;3407,75;1862,01
+5,35E+14;SFI;Sem tipologia definida;SeAC;OUTROS;250;Sim;Quitado;Nao;Nao;Nao;400,91;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;202;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;95;Nao;Quitado;Nao;Nao;Nao;1000,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;274;Nao;Quitado;Nao;Nao;Nao;534,55;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;231;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;189;Nao;Quitado;Nao;Nao;Nao;5258,22;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;566;Sim;Quitado;Nao;Nao;Nao;5205,16;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;146;Nao;Devedor;Nao;Sim;Sim;11700,00;11700,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;135;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;107;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SCO;Interconexão;STFC;OUTROS;1197;Nao;Devedor;Nao;Sim;Sim;192161,59;192161,59
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;80;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;169;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;161;Nao;Devedor;Nao;Sim;Sim;4800,00;4800,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;137;Sim;Quitado;Nao;Nao;Nao;3607,87;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;119;Nao;Devedor;Nao;Sim;Sim;2271,83;2271,83
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;333;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Interconexão;SCM;OUTROS;534;Nao;Devedor;Nao;Sim;Sim;33090,14;33090,14
+5,35E+14;SCO;Exploração Industrial de Linha Dedicada;STFC;OI;1222;Nao;Devedor;Nao;Sim;Sim;403830,74;403830,74
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;343;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SCO;Universalização;STFC;TELEFÔNICA;1152;Nao;Quitado;Nao;Nao;Nao;1412503,80;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1293;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;201;Sim;Quitado;Nao;Nao;Nao;823,52;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;215;Nao;Devedor;Nao;Sim;Sim;5595,49;5595,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;148;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;216;Nao;Devedor;Nao;Sim;Sim;6940,21;6940,21
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;210;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;836;Nao;Quitado;Nao;Nao;Nao;1196,28;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;1325;Nao;Quitado;Nao;Nao;Nao;5000,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;1169;Nao;Devedor;Nao;Nao;Nao;97600,00;97600,00
+5,35E+14;SCO;Bens Reversíveis;STFC;CLARO;922;Sim;Quitado;Nao;Nao;Nao;25920,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;527;Sim;Quitado;Nao;Nao;Nao;2351,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;231;Sim;Quitado;Nao;Nao;Nao;2055,06;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;206;Nao;Parcial;Nao;Sim;Sim;5078,22;4796,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;196;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,36E+14;SFI;Não Outorgado - Radiofrequência;SMP;OUTROS;357;Nao;Quitado;Nao;Nao;Nao;6940,21;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;200;Nao;Quitado;Nao;Nao;Nao;6246,19;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;162;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;138;Nao;Parcial;Nao;Sim;Sim;2672,75;2628,18
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;119;Nao;Devedor;Nao;Sim;Sim;4543,67;4543,67
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;203;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;181;Nao;Quitado;Nao;Nao;Nao;5595,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;86;Nao;Parcial;Nao;Nao;Nao;5345,49;4307,82
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;974;Nao;Quitado;Nao;Nao;Nao;5000,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;182;Nao;Quitado;Nao;Nao;Sim;2672,75;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;76;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;141;Nao;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;138;Nao;Quitado;Nao;Nao;Nao;1363,50;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;408;Nao;Quitado;Nao;Nao;Nao;3470,10;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;178;Nao;Quitado;Nao;Nao;Nao;300,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;CLARO;1043;Sim;Quitado;Nao;Nao;Nao;1875,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;353;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;302;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;410;Sim;Quitado;Nao;Nao;Nao;5205,15;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;347;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;375;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Certificação de Produtos;SCM;OUTROS;574;Nao;Devedor;Nao;Sim;Sim;600,00;600,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;369;Nao;Devedor;Nao;Sim;Sim;3470,10;3470,10
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;168;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;434;Sim;Quitado;Nao;Nao;Nao;4944,90;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;386;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;369;Nao;Parcial;Nao;Sim;Sim;5345,49;5234,19
+5,35E+14;SCO;Obrigações Legais e Contratuais;STFC;OI;1265;Nao;Devedor;Nao;Sim;Sim;69222,47;69222,47
+5,35E+14;SCO;Portabilidade Numérica;STFC;CLARO;1420;Sim;Quitado;Nao;Nao;Nao;4381,92;0,00
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;CLARO;1283;Sim;Quitado;Nao;Nao;Nao;20505,63;0,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;SMP;CLARO;1346;Sim;Quitado;Nao;Nao;Nao;6125,48;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1636;Nao;Parcial;Nao;Nao;Nao;683,81;547,06
+5,35E+14;SFI;Irregularidade Técnica;STFC;OUTROS;1205;Nao;Devedor;Nao;Sim;Sim;86525,38;86525,38
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;826;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;363;Nao;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1382;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Atendimento - SCM;SCM;OUTROS;371;Nao;Devedor;Nao;Sim;Sim;750,00;750,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;267;Nao;Devedor;Nao;Sim;Sim;6095,49;6095,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;152;Nao;Devedor;Nao;Sim;Sim;3053,69;3053,69
+5,35E+14;SFI;Cancelamento de Serviço - SCM;SCM;OUTROS;707;Nao;Quitado;Nao;Nao;Nao;2541,83;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;271;Nao;Quitado;Nao;Nao;Nao;683,81;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;751;Nao;Devedor;Nao;Sim;Sim;5078,22;5078,22
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;574;Nao;Devedor;Nao;Sim;Sim;1162,03;1162,03
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;496;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;506;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;397;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SMP;OUTROS;385;Nao;Devedor;Nao;Sim;Sim;6426,19;6426,19
+5,35E+14;SFI;Sem tipologia definida;STFC;OUTROS;315;Nao;Quitado;Nao;Nao;Nao;2185,00;0,00
+5,35E+14;SFI;Oferta de Serviço - SCM;SCM;OUTROS;314;Nao;Quitado;Nao;Nao;Nao;2585,47;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;292;Nao;Quitado;Nao;Nao;Nao;452,52;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;373;Sim;Quitado;Nao;Nao;Nao;24034,31;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;217;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SCM;OUTROS;1450;Nao;Quitado;Nao;Nao;Nao;8765,70;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;245;Nao;Devedor;Nao;Nao;Nao;6940,21;6940,21
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;192;Nao;Quitado;Nao;Nao;Nao;2539,11;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;354;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;260;Sim;Quitado;Nao;Nao;Nao;5205,15;0,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;247;Nao;Devedor;Nao;Sim;Sim;6246,19;6246,19
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;180;Nao;Devedor;Nao;Sim;Sim;3123,09;3123,09
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;378;Sim;Quitado;Nao;Nao;Nao;41250,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;STFC;OUTROS;1650;Nao;Devedor;Nao;Nao;Nao;152289,32;152289,32
+5,35E+14;SCO;Direitos do Consumidor - SCM;STFC;SERCOMTEL;1650;Nao;Devedor;Nao;Nao;Nao;152289,32;152289,32
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;406;Sim;Quitado;Nao;Nao;Nao;3608,21;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;379;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;730;Nao;Devedor;Nao;Nao;Nao;6940,21;6940,21
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;563;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;295;Nao;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;295;Nao;Quitado;Nao;Nao;Nao;2940,02;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;211;Nao;Quitado;Nao;Nao;Nao;7500,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;192;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;200;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;925;Nao;Quitado;Nao;Nao;Nao;2392,56;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1376;Nao;Devedor;Nao;Sim;Nao;4859,05;4859,05
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;243;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;202;Nao;Quitado;Nao;Nao;Nao;6940,21;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;611;Nao;Parcial;Nao;Sim;Sim;7690,21;1293,05
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;212;Nao;Quitado;Nao;Nao;Nao;3123,09;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;212;Sim;Quitado;Nao;Nao;Nao;2212,20;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;989;Nao;Devedor;Nao;Sim;Sim;12817,87;12817,87
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;469;Nao;Devedor;Nao;Sim;Sim;6940,21;6940,21
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;273;Nao;Devedor;Nao;Sim;Sim;3723,09;3723,09
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;1443;Nao;Parcial;Nao;Nao;Nao;3470,10;14,43
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;306;Sim;Quitado;Nao;Nao;Nao;3513,48;0,00
+5,35E+14;SCO;Direitos do Consumidor - SeAC;SMP;ALGAR;1379;Sim;Quitado;Nao;Nao;Nao;19182,39;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;358;Sim;Quitado;Nao;Nao;Nao;506,99;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;371;Nao;Quitado;Nao;Nao;Nao;360,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;457;Nao;Quitado;Nao;Nao;Nao;482,63;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;409;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;407;Nao;Quitado;Nao;Nao;Nao;637,50;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;173;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1417;Nao;Devedor;Nao;Nao;Sim;6940,21;6940,21
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;229;Nao;Quitado;Nao;Nao;Nao;2840,63;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1609;Nao;Devedor;Nao;Nao;Nao;5345,05;5345,05
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;267;Nao;Quitado;Nao;Nao;Nao;5552,17;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;428;Sim;Quitado;Nao;Nao;Nao;506,25;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;301;Nao;Devedor;Nao;Sim;Sim;3787,50;3787,50
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;581;Nao;Quitado;Nao;Nao;Nao;3024,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;432;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;432;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;217;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,35E+14;SCO;Direitos do Consumidor - Convergente;STFC;OI;1703;Nao;Devedor;Nao;Nao;Nao;20000,00;20000,00
+5,35E+14;SFI;Gestão da Qualidade - SMP;SMP;TELEFÔNICA;450;Sim;Quitado;Nao;Nao;Nao;1875,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;300;Nao;Parcial;Nao;Nao;Nao;3230,47;200,01
+5,35E+14;SFI;Não Outorgado - Serviço;SMP;OUTROS;1462;Nao;Quitado;Nao;Nao;Nao;2392,08;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;265;Sim;Quitado;Nao;Nao;Nao;3607,87;0,00
+5,36E+14;SFI;Oferta de Serviço - SCM;SCM;OUTROS;175;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SCO;Tarifação - SMP;SMP;TELEFÔNICA;1060;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SMP;TIM;176;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;209;Sim;Quitado;Nao;Nao;Nao;5725,67;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;400;Nao;Quitado;Nao;Nao;Nao;614,53;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;390;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;334;Nao;Parcial;Nao;Nao;Sim;2940,02;2793,50
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;280;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;393;Nao;Devedor;Nao;Nao;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;355;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;427;Nao;Parcial;Nao;Nao;Sim;5345,49;4895,11
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;258;Sim;Quitado;Nao;Nao;Nao;1350,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1011;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SeAC;OUTROS;456;Nao;Quitado;Nao;Nao;Nao;1079,79;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;266;Nao;Quitado;Nao;Nao;Nao;1188,00;0,00
+5,35E+14;SCO;Ressarcimento - STFC;STFC;OI;1665;Nao;Devedor;Nao;Nao;Sim;57577,63;57577,63
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;430;Nao;Devedor;Nao;Sim;Sim;2940,02;2940,02
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;330;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço e Radiofrequência;SMP;OUTROS;1253;Nao;Quitado;Nao;Nao;Nao;11451,34;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;340;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;STFC;OUTROS;1092;Nao;Devedor;Nao;Sim;Sim;64676,93;64676,93
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;314;Nao;Quitado;Nao;Nao;Nao;5933,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;438;Nao;Devedor;Nao;Sim;Sim;6521,50;6521,50
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;299;Nao;Quitado;Nao;Nao;Nao;477,66;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;291;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;336;Nao;Parcial;Nao;Nao;Nao;15000,00;14009,22
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;503;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SMP;TIM;322;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;460;Nao;Quitado;Nao;Nao;Nao;539,89;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;280;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;277;Sim;Quitado;Nao;Nao;Nao;4223,41;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;230;Nao;Parcial;Nao;Sim;Sim;5345,49;3196,71
+5,35E+14;SCO;Gestão da Qualidade - SMP;SMP;ALGAR;1244;Nao;Devedor;Sim;Nao;Nao;439555,64;439555,64
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;448;Nao;Parcial;Nao;Nao;Sim;5345,49;3746,40
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;192;Nao;Parcial;Nao;Sim;Sim;7360,21;6868,30
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;1653;Nao;Quitado;Nao;Nao;Nao;375,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;154;Nao;Devedor;Nao;Sim;Sim;2940,02;2940,02
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;1114;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;272;Nao;Devedor;Nao;Sim;Sim;4500,00;4500,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;454;Nao;Quitado;Nao;Nao;Nao;4494,57;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;311;Sim;Quitado;Nao;Nao;Nao;2602,57;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;241;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Irregularidade Técnica;SeAC;CLARO;1124;Nao;Quitado;Nao;Nao;Nao;2400,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;235;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;125;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SCM;OUTROS;483;Nao;Quitado;Nao;Nao;Nao;3542,52;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;204;Nao;Parcial;Nao;Nao;Nao;4810,94;3207,72
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;149;Nao;Quitado;Nao;Nao;Sim;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;352;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;296;Nao;Parcial;Nao;Sim;Sim;6940,21;5656,63
+5,35E+14;SCO;Descumprimento de Determinação;STFC;TELEFÔNICA;706;Sim;Quitado;Nao;Nao;Nao;90477,65;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;455;Sim;Quitado;Nao;Nao;Nao;5556,83;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;351;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,35E+14;SFI;Sem tipologia definida;SMP;TIM;348;Sim;Quitado;Nao;Nao;Nao;5548,95;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;330;Nao;Devedor;Nao;Sim;Sim;5452,40;5452,40
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;181;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;323;Nao;Quitado;Nao;Nao;Nao;2374,20;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;175;Nao;Devedor;Nao;Sim;Sim;3361,40;3361,40
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;374;Nao;Parcial;Nao;Sim;Sim;20000,00;18684,09
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;219;Nao;Quitado;Nao;Nao;Nao;3395,01;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;402;Nao;Quitado;Nao;Nao;Nao;900,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;370;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;342;Nao;Parcial;Nao;Nao;Sim;5078,22;4659,43
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;258;Sim;Quitado;Nao;Nao;Nao;15000,00;0,00
+5,36E+14;SFI;Irregularidade Técnica e Certificação;SCM;OUTROS;553;Nao;Parcial;Nao;Nao;Nao;9535,02;6910,89
+5,36E+14;SFI;Irregularidade Técnica e Certificação;SCM;OUTROS;362;Nao;Devedor;Nao;Sim;Sim;1612,68;1612,68
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;820;Nao;Devedor;Nao;Sim;Sim;15381,44;15381,44
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;317;Nao;Devedor;Nao;Sim;Sim;3470,10;3470,10
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;329;Nao;Quitado;Nao;Nao;Nao;7905,62;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;305;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;601;Nao;Devedor;Nao;Nao;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;601;Nao;Devedor;Nao;Sim;Sim;3032,75;3032,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;182;Nao;Quitado;Nao;Nao;Nao;7194,63;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;93;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;736;Nao;Parcial;Nao;Sim;Sim;6940,21;6628,38
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;509;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;342;Nao;Quitado;Nao;Nao;Nao;589,64;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;324;Nao;Devedor;Nao;Nao;Sim;5595,49;5595,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;271;Nao;Devedor;Nao;Sim;Sim;10908,00;10908,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SCM;OUTROS;912;Nao;Quitado;Nao;Nao;Sim;3142,08;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;246;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;154;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;STFC;OUTROS;527;Nao;Devedor;Nao;Nao;Nao;25327,69;25327,69
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SMP;OUTROS;479;Nao;Quitado;Nao;Nao;Nao;978,22;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;481;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Oferta de Serviço - SCM;SCM;OUTROS;398;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;334;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;295;Nao;Devedor;Nao;Sim;Sim;6300,00;6300,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;461;Nao;Devedor;Nao;Sim;Sim;1180,00;1180,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;226;Nao;Devedor;Nao;Sim;Sim;7634,23;7634,23
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;143;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;610;Nao;Devedor;Nao;Sim;Sim;800,00;800,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;330;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Atendimento - SeAC;SeAC;OUTROS;749;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Home Passed;SeAC;OUTROS;401;Sim;Quitado;Nao;Nao;Nao;940,74;0,00
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;468;Nao;Devedor;Nao;Sim;Sim;1282,50;1282,50
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;302;Nao;Devedor;Nao;Sim;Sim;7409,11;7409,11
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;195;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;195;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;333;Nao;Quitado;Nao;Nao;Sim;5620,49;0,00
+5,35E+14;SFI;Descumprimento de Determinação;SMP;OUTROS;1449;Nao;Quitado;Nao;Nao;Nao;2377,87;0,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;413;Nao;Devedor;Nao;Sim;Sim;1064,63;1064,63
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;355;Sim;Quitado;Nao;Nao;Nao;2342,32;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;289;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1722;Nao;Quitado;Nao;Nao;Nao;2699,47;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;453;Nao;Quitado;Nao;Nao;Sim;1278,23;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;252;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Sem tipologia definida;SeAC;OUTROS;174;Sim;Quitado;Nao;Nao;Nao;2430,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;SKY;280;Sim;Quitado;Nao;Nao;Nao;7877,07;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;856;Nao;Devedor;Nao;Sim;Sim;7140,21;7140,21
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;420;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;339;Nao;Quitado;Nao;Nao;Nao;2872,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;300;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;288;Nao;Parcial;Nao;Sim;Sim;5345,49;3666,34
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;256;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;403;Nao;Quitado;Nao;Nao;Nao;2355,93;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;410;Nao;Quitado;Nao;Nao;Nao;1060,50;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;181;Nao;Quitado;Nao;Nao;Nao;4401,18;0,00
+5,36E+14;SFI;Irregularidade Técnica e Certificação;SCM;OUTROS;1696;Nao;Devedor;Nao;Nao;Sim;975,00;975,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;631;Nao;Quitado;Nao;Nao;Nao;11115,34;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;533;Nao;Quitado;Nao;Nao;Nao;540,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;77;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;1202;Nao;Quitado;Nao;Nao;Nao;5000,00;0,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;306;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;304;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Licenciamento de Estação;SMP;CLARO;568;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1848;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1744;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SCO;Compromisso de Abrangência;SMP;TIM;1429;Sim;Quitado;Nao;Nao;Nao;19185,63;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;283;Sim;Quitado;Nao;Nao;Nao;660,00;0,00
+5,35E+14;SCO;Bens Reversíveis;STFC;TELEFÔNICA;1333;Nao;Devedor;Sim;Nao;Sim;15860160,00;15860160,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;SCM;OUTROS;292;Nao;Quitado;Nao;Nao;Nao;880,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;SCM;OUTROS;284;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;283;Sim;Quitado;Nao;Nao;Nao;660,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;SCM;OUTROS;347;Nao;Devedor;Nao;Nao;Nao;440,00;440,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;291;Sim;Quitado;Nao;Nao;Nao;990,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;283;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;376;Sim;Quitado;Nao;Nao;Nao;660,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;308;Nao;Devedor;Nao;Sim;Sim;2336,96;2336,96
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;371;Nao;Quitado;Nao;Nao;Nao;2336,96;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;291;Sim;Quitado;Nao;Nao;Nao;1274,10;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;148;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1812;Nao;Devedor;Nao;Nao;Sim;2045,47;2045,47
+5,35E+14;SCO;Numeração;SMP;CLARO;1387;Nao;Devedor;Sim;Nao;Nao;5916031,81;5916031,81
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;764;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;413;Nao;Quitado;Nao;Nao;Nao;2872,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;498;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;384;Nao;Devedor;Nao;Sim;Sim;3470,10;3470,10
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;322;Nao;Quitado;Nao;Nao;Nao;110,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;STFC;OUTROS;555;Nao;Quitado;Nao;Nao;Nao;937,33;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;697;Nao;Devedor;Nao;Sim;Sim;3027,29;3027,29
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;381;Nao;Devedor;Nao;Nao;Sim;3123,09;3123,09
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;125;Sim;Quitado;Nao;Nao;Nao;4049,21;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;641;Sim;Quitado;Nao;Nao;Nao;2340,51;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;95;Nao;Devedor;Nao;Sim;Sim;4936,09;4936,09
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;729;Sim;Quitado;Nao;Nao;Nao;294,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;457;Nao;Devedor;Nao;Nao;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;820;Nao;Devedor;Nao;Sim;Sim;3704,56;3704,56
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;680;Nao;Quitado;Nao;Nao;Nao;3044,53;0,00
+5,36E+14;SFI;Sem tipologia definida;SeAC;OUTROS;287;Nao;Quitado;Nao;Nao;Nao;1000,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;833;Sim;Quitado;Nao;Nao;Nao;3112,52;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;394;Nao;Parcial;Nao;Nao;Sim;4543,67;3574,06
+5,35E+14;SCO;Bens Reversíveis;STFC;OI;1354;Nao;Devedor;Nao;Nao;Nao;11531520,00;11531520,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;564;Nao;Devedor;Nao;Sim;Sim;5552,17;5552,17
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;181;Nao;Parcial;Nao;Sim;Sim;4810,94;3200,77
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;140;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;722;Nao;Devedor;Nao;Sim;Sim;2605,47;2605,47
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;488;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;434;Nao;Quitado;Nao;Nao;Nao;7570,02;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;399;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;142;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Bens Reversíveis;STFC;TELEFÔNICA;776;Nao;Quitado;Nao;Nao;Nao;47520,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;269;Nao;Devedor;Nao;Nao;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;472;Nao;Parcial;Nao;Nao;Sim;4810,94;3835,07
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;314;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;CLARO;600;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;587;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;376;Nao;Devedor;Nao;Sim;Sim;5933,49;5933,49
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;471;Nao;Quitado;Nao;Nao;Nao;569,84;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;378;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;423;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;475;Nao;Parcial;Nao;Nao;Nao;8293,24;4041,14
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;149;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;665;Sim;Quitado;Nao;Nao;Nao;480,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;947;Nao;Quitado;Nao;Nao;Nao;5078,22;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;644;Nao;Devedor;Nao;Sim;Sim;5398,95;5398,95
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;108;Nao;Devedor;Nao;Sim;Sim;3311,09;3311,09
+5,35E+14;SFI;Certificação de Produtos;STFC;OUTROS;1503;Nao;Devedor;Nao;Nao;Nao;22140,00;22140,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;495;Nao;Parcial;Nao;Nao;Sim;4543,67;3495,39
+5,35E+14;SFI;Não Outorgado - Serviço;STFC;OUTROS;754;Sim;Quitado;Nao;Nao;Nao;5102,93;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;572;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;489;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Direitos do Consumidor - SCM;SCM;OUTROS;1458;Nao;Devedor;Sim;Nao;Sim;2752690,15;2752690,15
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;449;Sim;Quitado;Nao;Nao;Nao;502,80;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;425;Nao;Parcial;Nao;Sim;Sim;5345,49;3521,18
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;320;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;489;Nao;Quitado;Nao;Nao;Nao;10000,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;464;Sim;Quitado;Nao;Nao;Nao;1575,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;699;Nao;Quitado;Nao;Nao;Nao;3027,85;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;130;Nao;Quitado;Nao;Nao;Sim;3010,08;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;498;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;523;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;436;Nao;Parcial;Nao;Sim;Sim;2405,47;2365,69
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;407;Nao;Devedor;Nao;Nao;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;329;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;329;Nao;Parcial;Nao;Sim;Sim;5345,49;871,38
+5,35E+14;SCO;Compromisso de Abrangência;SMP;TELEFÔNICA;1801;Sim;Quitado;Nao;Nao;Nao;1290799,43;0,00
+5,35E+14;SCO;Compromisso de Abrangência;SMP;TIM;1494;Sim;Quitado;Nao;Nao;Nao;15000,00;0,00
+5,35E+14;SCO;Universalização;SMP;CLARO;1022;Nao;Devedor;Sim;Nao;Nao;2224937,76;2224937,76
+5,35E+14;SCO;Numeração;SMP;CLARO;1349;Sim;Quitado;Nao;Nao;Nao;47876,85;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;654;Sim;Quitado;Nao;Nao;Nao;675,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;CLARO;981;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;650;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;502;Nao;Quitado;Nao;Nao;Nao;757,50;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;355;Nao;Parcial;Nao;Sim;Sim;5175,71;2441,54
+5,35E+14;SCO;Gestão da Qualidade - STFC;STFC;OUTROS;1283;Nao;Devedor;Nao;Sim;Sim;27000,00;27000,00
+5,35E+14;SCO;Sem tipologia definida;STFC;OUTROS;625;Nao;Quitado;Nao;Nao;Nao;750,00;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;SERCOMTEL;625;Nao;Quitado;Nao;Nao;Nao;750,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - STFC;STFC;ALGAR;1419;Sim;Quitado;Nao;Nao;Nao;480355,70;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;TIM;611;Sim;Quitado;Nao;Nao;Nao;1047274,45;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;OUTROS;383;Sim;Quitado;Nao;Nao;Nao;1119,89;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;TIM;693;Sim;Quitado;Nao;Nao;Nao;147321,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - STFC;STFC;OUTROS;385;Nao;Devedor;Nao;Sim;Sim;3200,00;3200,00
+5,35E+14;SCO;Gestão da Qualidade - STFC;STFC;OUTROS;385;Nao;Devedor;Nao;Sim;Sim;3200,00;3200,00
+5,35E+14;SCO;Gestão da Qualidade - STFC;STFC;TELEFÔNICA;1486;Sim;Quitado;Nao;Nao;Nao;9919699,03;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;532;Sim;Quitado;Nao;Nao;Nao;1019,01;0,00
+5,35E+14;SCO;Descumprimento de Determinação;STFC;OUTROS;1540;Nao;Devedor;Nao;Sim;Sim;4117669,49;4117669,49
+5,35E+14;SFI;Irregularidade Técnica e Certificação;STFC;OUTROS;798;Nao;Quitado;Nao;Nao;Nao;6600,00;0,00
+5,35E+14;SFI;Oferta de Serviço - SCM;SCM;OUTROS;591;Nao;Parcial;Nao;Sim;Sim;5345,49;3547,62
+5,35E+14;SFI;Oferta de Serviço - SCM;SCM;OUTROS;525;Nao;Devedor;Nao;Sim;Sim;3524,53;3524,53
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;505;Nao;Quitado;Nao;Nao;Sim;4810,94;0,00
+5,35E+14;SFI;Sem tipologia definida;STFC;OUTROS;665;Nao;Quitado;Nao;Nao;Nao;540,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;457;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;420;Nao;Parcial;Nao;Sim;Nao;4810,94;369,46
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;342;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;342;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;342;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;ALGAR;394;Sim;Quitado;Nao;Nao;Nao;1500,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;548;Nao;Parcial;Nao;Sim;Nao;2672,75;1394,95
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;517;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Numeração;SMP;TELEFÔNICA;1338;Sim;Quitado;Nao;Nao;Nao;741387,38;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;CLARO;413;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;599;Nao;Quitado;Nao;Nao;Nao;675,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;153;Nao;Parcial;Nao;Sim;Sim;3010,08;2756,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;445;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;257;Nao;Quitado;Nao;Nao;Nao;9531,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;439;Nao;Quitado;Nao;Nao;Nao;1162,03;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;642;Sim;Quitado;Nao;Nao;Nao;1539,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;621;Nao;Quitado;Nao;Nao;Nao;4000,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;1875;Nao;Devedor;Nao;Nao;Nao;2892,30;2892,30
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;862;Nao;Devedor;Nao;Sim;Sim;2892,75;2892,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;473;Nao;Quitado;Nao;Nao;Nao;1340,80;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;432;Nao;Devedor;Nao;Sim;Sim;2912,75;2912,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;420;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;478;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;329;Nao;Parcial;Nao;Sim;Sim;3470,10;2308,45
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;525;Nao;Quitado;Nao;Nao;Nao;2405,47;0,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;479;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;463;Nao;Parcial;Nao;Sim;Sim;2872,75;2067,51
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;357;Nao;Devedor;Nao;Sim;Sim;5152,75;5152,75
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;357;Nao;Devedor;Nao;Sim;Sim;2405,47;2405,47
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;357;Nao;Devedor;Nao;Nao;Sim;3472,75;3472,75
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;358;Nao;Devedor;Nao;Sim;Sim;3472,75;3472,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;505;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;495;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;391;Nao;Quitado;Nao;Nao;Sim;5345,49;0,00
+5,35E+14;SCO;Bens Reversíveis;STFC;TELEFÔNICA;1064;Sim;Quitado;Nao;Nao;Nao;13125,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - Convergente;SMP;TELEFÔNICA;1456;Sim;Quitado;Nao;Nao;Nao;15947,64;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;OUTROS;434;Sim;Quitado;Nao;Nao;Nao;14794,70;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;SERCOMTEL;434;Sim;Quitado;Nao;Nao;Nao;14794,70;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;OUTROS;433;Sim;Quitado;Nao;Nao;Nao;11700,00;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;SERCOMTEL;433;Sim;Quitado;Nao;Nao;Nao;11700,00;0,00
+5,35E+14;SCO;Descumprimento de Determinação;SCM;OI;1402;Nao;Devedor;Nao;Sim;Sim;3000,00;3000,00
+5,35E+14;SCO;Bens Reversíveis;STFC;ALGAR;1430;Nao;Devedor;Sim;Nao;Nao;1005600,00;1005600,00
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;TELEFÔNICA;1579;Sim;Quitado;Nao;Nao;Nao;1743620,68;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;413;Nao;Quitado;Nao;Nao;Nao;4076,03;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;570;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;362;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Numeração;SMP;TELEFÔNICA;903;Sim;Quitado;Nao;Nao;Nao;1464753,85;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;TIM;1387;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;1344;Nao;Quitado;Nao;Nao;Nao;5000,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;700;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SMP;OUTROS;651;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;595;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;462;Nao;Quitado;Nao;Nao;Nao;3248,96;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;462;Sim;Quitado;Nao;Nao;Nao;2433,39;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;514;Nao;Devedor;Nao;Sim;Sim;3044,53;3044,53
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;162;Sim;Quitado;Nao;Nao;Nao;1918,93;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;429;Nao;Devedor;Nao;Sim;Sim;1354,21;1354,21
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;379;Nao;Devedor;Nao;Sim;Sim;6752,75;6752,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;140;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;819;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;539;Nao;Devedor;Nao;Sim;Sim;10000,00;10000,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;1009;Nao;Quitado;Nao;Nao;Nao;7068,20;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;639;Sim;Quitado;Nao;Nao;Nao;3407,75;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;723;Sim;Quitado;Nao;Nao;Nao;2154,56;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;115;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,35E+14;SCO;Bens Reversíveis;STFC;TELEFÔNICA;1060;Nao;Quitado;Nao;Nao;Nao;17500,00;0,00
+5,35E+14;SCO;Portabilidade Numérica;STFC;OUTROS;604;Nao;Devedor;Nao;Sim;Sim;640,00;640,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;433;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SCO;Descumprimento de Condicionamentos de Atos;SMP;ALGAR;738;Sim;Quitado;Nao;Nao;Nao;26801,30;0,00
+5,35E+14;SCO;Portabilidade Numérica;STFC;TIM;853;Sim;Quitado;Nao;Nao;Nao;149063,52;0,00
+5,35E+14;SCO;Direitos do Consumidor - SCM;SCM;OUTROS;403;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;559;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;349;Nao;Devedor;Nao;Sim;Sim;9329,15;9329,15
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1938;Nao;Devedor;Nao;Nao;Nao;5345,49;5345,49
+5,35E+14;SCO;Bens Reversíveis;STFC;OI;1465;Nao;Devedor;Nao;Sim;Sim;430000,00;430000,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;176;Nao;Quitado;Nao;Nao;Nao;2700,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;TELEFÔNICA;1431;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;426;Nao;Quitado;Nao;Nao;Nao;220,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1526;Nao;Devedor;Nao;Sim;Sim;875636,99;875636,99
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ACOM;1425;Nao;Quitado;Nao;Nao;Nao;52432,47;0,00
+5,35E+14;SCO;Descumprimento de Determinação;SeAC;OUTROS;456;Nao;Devedor;Nao;Nao;Sim;8500,00;8500,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;448;Sim;Quitado;Nao;Nao;Nao;5250,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;447;Nao;Quitado;Nao;Nao;Nao;2000,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;428;Nao;Devedor;Nao;Sim;Sim;21435,96;21435,96
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;382;Nao;Devedor;Nao;Nao;Nao;3309,24;3309,24
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;859;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;384;Nao;Quitado;Nao;Nao;Sim;3291,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;594;Nao;Devedor;Nao;Sim;Sim;5398,95;5398,95
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;311;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;595;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;559;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ACOM;1312;Nao;Quitado;Nao;Nao;Nao;21670,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1308;Nao;Devedor;Nao;Nao;Nao;163377,86;163377,86
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;458;Nao;Quitado;Nao;Nao;Nao;4844,65;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;454;Nao;Quitado;Nao;Nao;Nao;660,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;ACOM;453;Sim;Quitado;Nao;Nao;Nao;165,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;445;Sim;Quitado;Nao;Nao;Nao;21555,82;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;445;Nao;Quitado;Nao;Nao;Nao;480,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;444;Nao;Parcial;Nao;Sim;Sim;9506,66;1250,07
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;604;Sim;Quitado;Nao;Nao;Nao;3608,20;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1428;Nao;Devedor;Nao;Sim;Sim;43244,97;43244,97
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;469;Nao;Quitado;Nao;Nao;Nao;770,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;464;Sim;Quitado;Nao;Nao;Nao;165,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;463;Sim;Quitado;Nao;Nao;Nao;82,50;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;455;Nao;Devedor;Nao;Sim;Sim;36728,84;36728,84
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;406;Sim;Quitado;Nao;Nao;Nao;12576,32;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;441;Nao;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;TELEFÔNICA;1386;Sim;Quitado;Nao;Nao;Nao;226913,47;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;TELEFÔNICA;1089;Sim;Quitado;Nao;Nao;Nao;657131,25;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;576;Nao;Devedor;Nao;Nao;Nao;380364,36;380364,36
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;496;Nao;Quitado;Nao;Nao;Nao;770,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;476;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;471;Sim;Quitado;Nao;Nao;Nao;1920,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;464;Nao;Devedor;Nao;Sim;Sim;1430,00;1430,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;457;Nao;Quitado;Nao;Nao;Nao;990,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ALPHAVILLE;1401;Nao;Quitado;Nao;Nao;Nao;44710,29;0,00
+5,35E+14;SCO;Rede Externa;STFC;TELEFÔNICA;970;Sim;Quitado;Nao;Nao;Nao;105418,50;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;482;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;170;Sim;Quitado;Nao;Nao;Nao;656,25;0,00
+5,35E+14;SCO;Portabilidade Numérica;STFC;OUTROS;652;Nao;Devedor;Nao;Sim;Sim;639,42;639,42
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;483;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SCO;Descumprimento de Determinação;STFC;OI;1963;Nao;Devedor;Nao;Nao;Sim;200821,89;200821,89
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;624;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;413;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;677;Nao;Devedor;Nao;Nao;Sim;5595,49;5595,49
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;890;Nao;Devedor;Nao;Sim;Sim;150330,00;150330,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;139;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,35E+14;SCO;Sem tipologia definida;SMP;OUTROS;659;Sim;Quitado;Nao;Nao;Nao;1500,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;141;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,36E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;309;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Portabilidade Numérica;SMP;ALGAR;980;Nao;Quitado;Nao;Nao;Nao;278991,86;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;565;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;644;Sim;Quitado;Nao;Nao;Nao;3776,95;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;223;Nao;Parcial;Nao;Sim;Sim;3010,08;2959,89
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;194;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,35E+14;SCO;Universalização;STFC;OI;1519;Nao;Devedor;Nao;Sim;Sim;262491,04;262491,04
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;TELEFÔNICA;2056;Nao;Devedor;Nao;Nao;Nao;179374,82;179374,82
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1545;Nao;Quitado;Nao;Nao;Nao;17720,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1373;Nao;Quitado;Nao;Nao;Nao;128563,01;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;404;Nao;Devedor;Nao;Sim;Sim;5880,04;5880,04
+5,35E+14;SCO;Obrigações Legais e Contratuais;SCM;OUTROS;645;Nao;Devedor;Nao;Sim;Sim;13007,34;13007,34
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;406;Nao;Quitado;Nao;Nao;Nao;1100,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;907;Nao;Devedor;Nao;Sim;Sim;3840,00;3840,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1362;Nao;Devedor;Nao;Sim;Sim;129472,09;129472,09
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1565;Nao;Devedor;Nao;Sim;Sim;42474,25;42474,25
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1376;Nao;Quitado;Nao;Nao;Nao;2200,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ALGAR;1376;Nao;Devedor;Sim;Nao;Nao;770770,53;770770,53
+5,35E+14;SCO;Sem tipologia definida;SeAC;ALGAR;781;Sim;Quitado;Nao;Nao;Nao;93520,49;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;781;Sim;Quitado;Nao;Nao;Nao;1650,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;764;Sim;Quitado;Nao;Nao;Nao;1980,00;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SCM;OUTROS;652;Nao;Devedor;Nao;Sim;Sim;12022,83;12022,83
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;1790;Nao;Devedor;Nao;Nao;Nao;3000,00;3000,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1371;Nao;Devedor;Nao;Sim;Sim;3080,00;3080,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;827;Sim;Quitado;Nao;Nao;Nao;2880,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;ABRIL;787;Nao;Devedor;Nao;Nao;Nao;13078,57;13078,57
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;1241;Nao;Quitado;Nao;Nao;Nao;3807,94;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1220;Nao;Quitado;Nao;Nao;Nao;2859,58;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1555;Sim;Quitado;Nao;Nao;Nao;3315,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;843;Sim;Quitado;Nao;Nao;Nao;2640,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;791;Sim;Quitado;Nao;Nao;Nao;960,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;785;Sim;Quitado;Nao;Nao;Nao;1980,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;771;Nao;Quitado;Nao;Nao;Nao;1920,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;771;Nao;Quitado;Nao;Nao;Nao;880,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;725;Sim;Quitado;Nao;Nao;Nao;14400,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;CABO CENTRO-MINAS;724;Sim;Quitado;Nao;Nao;Nao;6720,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;620;Sim;Quitado;Nao;Nao;Nao;960,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OI;828;Sim;Quitado;Nao;Nao;Nao;31895,32;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1365;Nao;Quitado;Nao;Nao;Nao;5280,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;772;Nao;Devedor;Nao;Nao;Sim;5070,00;5070,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1635;Nao;Devedor;Sim;Nao;Nao;10542763,99;10542763,99
+5,35E+14;SCO;Sem tipologia definida;SeAC;OI;788;Sim;Quitado;Nao;Nao;Nao;99180,92;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;787;Nao;Devedor;Nao;Sim;Sim;6400,00;6400,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;771;Sim;Quitado;Nao;Nao;Nao;5280,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;CABLE.COM;728;Nao;Quitado;Nao;Nao;Nao;1280,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;679;Nao;Quitado;Nao;Nao;Nao;1920,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;376;Nao;Quitado;Nao;Nao;Nao;3010,08;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;407;Nao;Quitado;Nao;Nao;Nao;6414,59;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1499;Nao;Devedor;Sim;Nao;Nao;9222836,87;9222836,87
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;690;Nao;Quitado;Nao;Nao;Sim;1280,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;783;Nao;Devedor;Nao;Sim;Sim;19385,16;19385,16
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;783;Sim;Quitado;Nao;Nao;Nao;6600,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;782;Sim;Quitado;Nao;Nao;Nao;990,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;CAMBÉ;813;Nao;Devedor;Nao;Sim;Sim;8960,00;8960,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;800;Sim;Quitado;Nao;Nao;Nao;3840,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;782;Nao;Parcial;Nao;Sim;Sim;8800,00;7554,07
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;592;Nao;Quitado;Nao;Nao;Nao;6093,86;0,00
+5,35E+14;SCO;Gestão da Qualidade - SeAC;SeAC;OUTROS;1383;Nao;Devedor;Sim;Nao;Nao;2592556,64;2592556,64
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;263;Nao;Quitado;Nao;Nao;Nao;2709,07;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;426;Sim;Quitado;Nao;Nao;Nao;4585,98;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;600;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,36E+14;SFI;Descumprimento de Determinação;SCM;OUTROS;748;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;560;Nao;Parcial;Nao;Sim;Sim;5345,49;4737,26
+5,35E+14;SFI;Descumprimento de Determinação;SMP;OUTROS;915;Nao;Devedor;Nao;Sim;Sim;4000,00;4000,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;424;Nao;Quitado;Nao;Nao;Nao;2859,58;0,00
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;CLARO;1495;Nao;Quitado;Nao;Nao;Nao;2500,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;565;Nao;Parcial;Nao;Nao;Sim;5345,49;4641,52
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;939;Nao;Devedor;Nao;Nao;Sim;2405,47;2405,47
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;587;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Licenciamento de Estação;SMP;NEXTEL;1482;Sim;Quitado;Nao;Nao;Nao;102255,27;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;930;Nao;Devedor;Nao;Sim;Sim;40900,00;40900,00
+5,36E+14;SFI;Sem tipologia definida;SMP;OUTROS;244;Sim;Quitado;Nao;Nao;Nao;487,50;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;406;Sim;Quitado;Nao;Nao;Nao;2894,62;0,00
+5,36E+14;SCO;Universalização;STFC;OI;2020;Nao;Devedor;Nao;Nao;Nao;95756,19;95756,19
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;487;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;656;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;678;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;607;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1263;Nao;Devedor;Nao;Sim;Sim;2370,53;2370,53
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;287;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;292;Nao;Quitado;Nao;Nao;Nao;2805,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;2093;Nao;Devedor;Nao;Nao;Nao;112413,00;112413,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1809;Nao;Devedor;Nao;Sim;Sim;110000,00;110000,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;746;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SeAC;OUTROS;559;Nao;Quitado;Nao;Nao;Sim;1336,37;0,00
+5,35E+14;SFI;Sem tipologia definida;STFC;CLARO;722;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;660;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;601;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;460;Nao;Devedor;Nao;Sim;Sim;2558,57;2558,57
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;643;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Irregularidade Técnica;SMP;CLARO;798;Nao;Quitado;Nao;Nao;Nao;3250,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;641;Nao;Quitado;Nao;Nao;Nao;4810,94;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;613;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1681;Nao;Devedor;Nao;Sim;Sim;2271,83;2271,83
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;432;Nao;Parcial;Nao;Nao;Sim;7911,94;7483,05
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;646;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Descumprimento de Determinação;SCM;OUTROS;949;Nao;Quitado;Nao;Nao;Nao;1515,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;711;Nao;Devedor;Nao;Sim;Sim;2031,31;2031,31
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;666;Nao;Devedor;Nao;Sim;Sim;5545,49;5545,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;617;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;607;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;602;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;661;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;822;Nao;Devedor;Nao;Sim;Sim;50298,00;50298,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;1005;Nao;Quitado;Nao;Nao;Nao;300,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;627;Nao;Quitado;Nao;Nao;Sim;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;719;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,35E+14;SFI;Sem tipologia definida;STFC;OUTROS;694;Sim;Quitado;Nao;Nao;Nao;868,02;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;595;Nao;Quitado;Nao;Nao;Nao;1367,62;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;763;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;347;Nao;Quitado;Nao;Nao;Nao;1050,00;0,00
+5,36E+14;SFI;Certificação de Produtos;SCM;OUTROS;1756;Nao;Devedor;Nao;Nao;Sim;9100,00;9100,00
+5,36E+14;SFI;Irregularidade Técnica;SCM;OUTROS;629;Nao;Devedor;Sim;Nao;Sim;26340,00;26340,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;348;Sim;Quitado;Nao;Nao;Nao;960,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;349;Sim;Quitado;Nao;Nao;Nao;960,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;722;Nao;Quitado;Nao;Nao;Nao;5257,21;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;821;Nao;Devedor;Nao;Sim;Sim;2234,67;2234,67
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;1033;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;986;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;336;Nao;Quitado;Nao;Nao;Nao;2709,07;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;216;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;89;Nao;Quitado;Nao;Nao;Nao;3145,53;0,00
+5,35E+14;SCO;Competição;SeAC;OUTROS;1907;Nao;Devedor;Nao;Sim;Nao;36125,14;36125,14
+5,35E+14;SCO;Carregamento de Canais - SeAC;SeAC;OUTROS;1763;Nao;Devedor;Sim;Nao;Nao;2611619,10;2611619,10
+5,35E+14;SCO;Carregamento de Canais - SeAC;SeAC;OUTROS;1112;Sim;Quitado;Nao;Nao;Nao;1056,69;0,00
+5,35E+14;SCO;Carregamento de Canais - SeAC;SeAC;ALGAR;1112;Sim;Quitado;Nao;Nao;Nao;7638,96;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;669;Nao;Quitado;Nao;Nao;Nao;3010,08;0,00
+5,35E+14;SCO;Sem tipologia definida;SMP;OUTROS;748;Nao;Quitado;Nao;Nao;Nao;1250,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;650;Nao;Devedor;Nao;Sim;Sim;3585,08;3585,08
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1007;Sim;Quitado;Nao;Nao;Nao;2199,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;CLARO;565;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;341;Nao;Quitado;Nao;Nao;Sim;2550,00;0,00
+5,35E+14;SFI;Sem tipologia definida;STFC;OI;697;Sim;Quitado;Nao;Nao;Nao;19800,00;0,00
+5,35E+14;SFI;Certificação de Produtos;STFC;OUTROS;1006;Sim;Quitado;Nao;Nao;Nao;5700,00;0,00
+5,35E+14;SCO;Descumprimento de Condicionamentos de Atos;STFC;OUTROS;905;Nao;Devedor;Nao;Sim;Nao;220,00;220,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;783;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;696;Sim;Quitado;Nao;Nao;Nao;5205,16;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;689;Nao;Devedor;Nao;Sim;Sim;5595,49;5595,49
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;604;Sim;Quitado;Nao;Nao;Nao;5580,16;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;511;Sim;Quitado;Nao;Nao;Nao;2250,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;499;Nao;Parcial;Nao;Sim;Sim;1549,96;1024,53
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;243;Nao;Quitado;Nao;Nao;Nao;3000,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;111;Nao;Parcial;Nao;Sim;Sim;2709,07;2574,23
+5,35E+14;SFI;Sem tipologia definida;STFC;OI;699;Sim;Quitado;Nao;Nao;Nao;1800,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;190;Sim;Quitado;Nao;Nao;Nao;2070,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;693;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;271;Nao;Quitado;Nao;Nao;Nao;2700,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;659;Nao;Parcial;Nao;Sim;Sim;5595,49;3860,50
+5,35E+14;SCO;Sem tipologia definida;STFC;OUTROS;762;Nao;Quitado;Nao;Nao;Nao;6324,49;0,00
+5,35E+14;SCO;Sem tipologia definida;STFC;SERCOMTEL;762;Nao;Quitado;Nao;Nao;Nao;6324,49;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;1020;Sim;Quitado;Nao;Nao;Nao;562,50;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;525;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;859;Nao;Quitado;Nao;Nao;Sim;2324,05;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1329;Nao;Quitado;Nao;Nao;Sim;1340,80;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;647;Nao;Quitado;Nao;Nao;Nao;4543,67;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;700;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;693;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;STFC;OUTROS;868;Nao;Quitado;Nao;Nao;Nao;720,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;839;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;678;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;293;Nao;Quitado;Nao;Nao;Nao;3010,08;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;1028;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;673;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;670;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SMP;OUTROS;586;Nao;Devedor;Nao;Sim;Sim;1704,72;1704,72
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;555;Nao;Quitado;Nao;Nao;Nao;5880,04;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;762;Nao;Devedor;Nao;Sim;Sim;3044,53;3044,53
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;632;Nao;Quitado;Nao;Nao;Nao;6089,07;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;611;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,36E+14;SFI;Licenciamento de Estação;SCM;TELEFÔNICA;1458;Nao;Quitado;Nao;Nao;Nao;5000,00;0,00
+5,35E+14;SFI;Irregularidade Técnica e Certificação;SCM;OUTROS;1396;Nao;Devedor;Nao;Nao;Nao;6704,00;6704,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;742;Nao;Devedor;Nao;Sim;Sim;1701,68;1701,68
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;283;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,35E+14;SFI;Sem tipologia definida;STFC;OUTROS;886;Nao;Devedor;Nao;Sim;Sim;10401,99;10401,99
+5,36E+14;SFI;Sem tipologia definida;SCM;CLARO;672;Nao;Quitado;Nao;Nao;Nao;2400,00;0,00
+5,35E+14;SFI;Certificação e Não Outorgado - Radiofrequência;SCM;OUTROS;1863;Nao;Devedor;Nao;Sim;Sim;1314,63;1314,63
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;715;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;595;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;514;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;464;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;686;Nao;Quitado;Nao;Nao;Sim;6949,14;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1568;Nao;Quitado;Nao;Nao;Nao;2324,05;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1043;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;846;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;739;Nao;Parcial;Nao;Nao;Sim;2672,75;2222,89
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;691;Nao;Parcial;Nao;Sim;Sim;620,68;1,99
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;637;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;547;Sim;Quitado;Nao;Nao;Nao;2342,32;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;330;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;775;Nao;Devedor;Nao;Sim;Sim;7800,00;7800,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;672;Sim;Quitado;Nao;Nao;Nao;2031,80;0,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;1069;Nao;Devedor;Nao;Nao;Sim;20000,00;20000,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;805;Nao;Quitado;Nao;Nao;Nao;640,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1211;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;510;Nao;Quitado;Nao;Nao;Nao;3453,23;0,00
+5,35E+14;SFI;Certificação de Produtos;SeAC;OUTROS;1319;Nao;Quitado;Nao;Nao;Nao;1000,00;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;1823;Nao;Devedor;Nao;Sim;Sim;13408,00;13408,00
+5,35E+14;SFI;Descumprimento de Determinação;SCM;OUTROS;1030;Nao;Devedor;Nao;Sim;Sim;11800,00;11800,00
+5,36E+14;SFI;Sem tipologia definida;STFC;OI;807;Sim;Quitado;Nao;Nao;Nao;1800,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;497;Nao;Quitado;Nao;Nao;Nao;540,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1034;Nao;Quitado;Nao;Nao;Nao;375,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;589;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SCO;Interconexão;SCM;OUTROS;1071;Nao;Quitado;Nao;Nao;Nao;3021,42;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1757;Nao;Parcial;Nao;Nao;Nao;5345,49;4584,89
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1015;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;905;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;856;Nao;Quitado;Nao;Nao;Sim;2257,01;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1054;Nao;Devedor;Nao;Sim;Sim;3234,07;3234,07
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;736;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1070;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;739;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;139;Nao;Quitado;Nao;Nao;Nao;4062,62;0,00
+5,35E+14;SFI;Descumprimento de Determinação;SCM;OUTROS;906;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SCO;Obrigações Legais e Contratuais;STFC;TELEFÔNICA;1841;Sim;Quitado;Nao;Nao;Nao;21648,05;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;748;Sim;Quitado;Nao;Nao;Nao;3808,66;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;644;Nao;Quitado;Nao;Nao;Nao;2672,75;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;954;Sim;Quitado;Nao;Nao;Nao;2916,31;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;661;Nao;Quitado;Nao;Nao;Nao;4692,80;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;287;Nao;Quitado;Nao;Nao;Nao;3311,09;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;525;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;525;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;939;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,35E+14;SFI;Irregularidade Técnica;SeAC;OUTROS;817;Sim;Quitado;Nao;Nao;Nao;2436,82;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;583;Nao;Parcial;Nao;Sim;Sim;3510,00;3185,21
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1038;Nao;Quitado;Nao;Nao;Sim;2860,37;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;896;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;762;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;728;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;636;Nao;Devedor;Nao;Sim;Sim;4810,94;4810,94
+5,36E+14;SFI;Sem tipologia definida;SMP;OUTROS;589;Nao;Quitado;Nao;Nao;Nao;500,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SMP;OUTROS;452;Sim;Quitado;Nao;Nao;Nao;5676,84;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1097;Nao;Devedor;Nao;Nao;Sim;5345,49;5345,49
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;539;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;467;Nao;Quitado;Nao;Nao;Nao;3010,08;0,00
+5,35E+14;SCO;Home Passed;SeAC;OUTROS;938;Nao;Devedor;Nao;Sim;Sim;66148,16;66148,16
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;921;Nao;Devedor;Nao;Nao;Nao;70317,28;70317,28
+5,35E+14;SCO;Home Passed;SeAC;OUTROS;1586;Nao;Devedor;Nao;Sim;Sim;150442,96;150442,96
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;777;Sim;Quitado;Nao;Nao;Nao;4011,80;0,00
+5,35E+14;SCO;Carregamento de Canais - SeAC;SeAC;OUTROS;808;Sim;Quitado;Nao;Nao;Nao;10210,26;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;808;Sim;Quitado;Nao;Nao;Nao;4264,80;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;848;Nao;Quitado;Nao;Nao;Sim;1740,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;842;Nao;Devedor;Nao;Nao;Sim;550,00;550,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;860;Nao;Quitado;Nao;Nao;Nao;3567,75;0,00
+5,35E+14;SCO;Interconexão;STFC;OUTROS;1125;Nao;Devedor;Nao;Sim;Sim;101885,66;101885,66
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1089;Nao;Devedor;Nao;Sim;Sim;4784,15;4784,15
+5,35E+14;SCO;Compromisso de Abrangência;SMP;CLARO;1758;Nao;Devedor;Sim;Nao;Nao;1318394,06;1318394,06
+5,35E+14;SCO;Sem tipologia definida;SMP;CLARO;1091;Sim;Quitado;Nao;Nao;Nao;493661,72;0,00
+5,35E+14;SCO;Compromisso de Abrangência;SMP;TELEFÔNICA;1938;Sim;Quitado;Nao;Nao;Nao;84101,68;0,00
+5,35E+14;SCO;Universalização;SMP;TELEFÔNICA;1931;Sim;Quitado;Nao;Nao;Nao;1026044,49;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;956;Nao;Devedor;Nao;Sim;Sim;451,40;451,40
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;840;Sim;Quitado;Nao;Nao;Nao;2004,57;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;837;Sim;Quitado;Nao;Nao;Nao;1162,50;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;767;Nao;Quitado;Nao;Nao;Nao;6940,21;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;932;Nao;Quitado;Nao;Nao;Nao;8214,88;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;846;Nao;Quitado;Nao;Nao;Nao;2904,59;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;720;Nao;Quitado;Nao;Nao;Nao;1500,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;467;Nao;Devedor;Nao;Sim;Sim;7510,08;7510,08
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1693;Nao;Parcial;Nao;Nao;Nao;2640,00;2199,06
+5,35E+14;SFI;Obstrução à Fiscalização;STFC;OI;2010;Nao;Devedor;Nao;Nao;Nao;110250,00;110250,00
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;871;Nao;Devedor;Nao;Sim;Sim;5452,40;5452,40
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;696;Sim;Quitado;Nao;Nao;Nao;5777,73;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;580;Nao;Devedor;Nao;Sim;Sim;2031,31;2031,31
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;147;Nao;Quitado;Nao;Nao;Sim;3656,36;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;1001;Sim;Quitado;Nao;Nao;Nao;4914,72;0,00
+5,36E+14;SFI;Certificação de Produtos;SMP;OUTROS;1610;Nao;Parcial;Nao;Nao;Nao;500,00;125,00
+5,35E+14;SFI;Sem tipologia definida;STFC;OUTROS;831;Sim;Quitado;Nao;Nao;Nao;41250,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;122;Nao;Quitado;Nao;Nao;Nao;4062,62;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;935;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Sem tipologia definida;STFC;OUTROS;832;Nao;Quitado;Nao;Nao;Nao;892,50;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;468;Nao;Quitado;Nao;Nao;Nao;1837,50;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;154;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SMP;NEXTEL;1659;Sim;Quitado;Nao;Nao;Nao;280208,52;0,00
+5,35E+14;SFI;Irregularidade Técnica;SMP;CLARO;1548;Sim;Quitado;Nao;Nao;Nao;11081,88;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1077;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;754;Sim;Quitado;Nao;Nao;Nao;825,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;469;Nao;Parcial;Nao;Sim;Sim;1925,00;1195,97
+5,35E+14;SCO;Sem tipologia definida;STFC;ALGAR;1042;Sim;Quitado;Nao;Nao;Nao;7875,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;749;Sim;Quitado;Nao;Nao;Nao;1794,06;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;594;Sim;Quitado;Nao;Nao;Nao;1509,38;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;483;Nao;Quitado;Nao;Nao;Nao;3010,08;0,00
+5,35E+14;SCO;Planos de Serviço - SCM;SCM;OUTROS;1365;Nao;Quitado;Nao;Nao;Nao;11417,42;0,00
+5,35E+14;SFI;Irregularidade Técnica e Certificação;SCM;OUTROS;1642;Nao;Quitado;Nao;Nao;Nao;4877,40;0,00
+5,35E+14;SCO;Numeração;STFC;TIM;1847;Sim;Quitado;Nao;Nao;Nao;7645,11;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;CLARO;637;Sim;Quitado;Nao;Nao;Nao;3750,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;609;Nao;Quitado;Nao;Nao;Nao;3311,09;0,00
+5,36E+14;SFI;Sem tipologia definida;SMP;OUTROS;487;Nao;Quitado;Nao;Nao;Nao;8050,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;169;Sim;Quitado;Nao;Nao;Nao;754,20;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;771;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;1321;Nao;Quitado;Nao;Nao;Nao;1196,28;0,00
+5,35E+14;SFI;Descumprimento de Determinação;SCM;OUTROS;1105;Nao;Devedor;Nao;Sim;Sim;55000,00;55000,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;765;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1063;Nao;Devedor;Nao;Sim;Sim;2798,70;2798,70
+5,35E+14;SCO;Obrigações Legais e Contratuais;SCM;OUTROS;1739;Nao;Devedor;Nao;Sim;Nao;47880,00;47880,00
+5,35E+14;SCO;Descumprimento de Determinação;SeAC;OI;987;Sim;Quitado;Nao;Nao;Nao;29080,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;822;Nao;Quitado;Nao;Nao;Nao;6380,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;653;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SCO;Descumprimento de Determinação;SeAC;OUTROS;1104;Nao;Devedor;Nao;Nao;Nao;6182,74;6182,74
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;1124;Nao;Devedor;Nao;Sim;Sim;3000,00;3000,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1464;Nao;Quitado;Nao;Nao;Nao;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;977;Nao;Parcial;Nao;Sim;Sim;9046,80;8746,52
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;896;Sim;Quitado;Nao;Nao;Nao;8036,75;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;875;Sim;Quitado;Nao;Nao;Nao;2882,72;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;778;Sim;Quitado;Nao;Nao;Nao;4009,11;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;482;Nao;Quitado;Nao;Nao;Nao;1750,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;482;Nao;Quitado;Nao;Nao;Nao;2100,00;0,00
+5,35E+14;SCO;Gestão da Qualidade - SCM;SCM;OUTROS;908;Nao;Devedor;Nao;Sim;Sim;440,00;440,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;303;Nao;Quitado;Nao;Nao;Nao;350,03;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1141;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;981;Nao;Devedor;Nao;Sim;Sim;5545,49;5545,49
+5,36E+14;SFI;Sem tipologia definida;STFC;OI;883;Sim;Quitado;Nao;Nao;Nao;7500,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;847;Nao;Devedor;Nao;Sim;Sim;2413,44;2413,44
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;982;Nao;Devedor;Nao;Sim;Sim;2872,75;2872,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;853;Sim;Quitado;Nao;Nao;Nao;4196,61;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;766;Nao;Devedor;Nao;Sim;Sim;21300,00;21300,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;766;Sim;Quitado;Nao;Nao;Nao;330,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;581;Nao;Parcial;Nao;Sim;Sim;3010,08;2960,08
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;489;Nao;Devedor;Nao;Nao;Sim;3535,08;3535,08
+5,36E+14;SFI;Sem tipologia definida;STFC;OI;174;Sim;Quitado;Nao;Nao;Nao;28361,82;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;816;Sim;Quitado;Nao;Nao;Nao;1804,10;0,00
+5,35E+14;SFI;Descumprimento de Determinação;SCM;OUTROS;1101;Nao;Quitado;Nao;Nao;Nao;5205,16;0,00
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;1077;Nao;Devedor;Nao;Sim;Sim;8000,00;8000,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;775;Nao;Quitado;Nao;Nao;Sim;2405,47;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;706;Sim;Quitado;Nao;Nao;Nao;670,40;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;323;Nao;Devedor;Nao;Sim;Sim;3000,00;3000,00
+5,35E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;CLARO;1791;Sim;Quitado;Nao;Nao;Nao;7500,00;0,00
+5,35E+14;SCO;Descumprimento de Determinação;STFC;TELEFÔNICA;1997;Nao;Devedor;Sim;Nao;Nao;1446131,74;1446131,74
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;1014;Nao;Quitado;Nao;Nao;Nao;6170,35;0,00
+5,35E+14;SCO;Bens Reversíveis;STFC;ALGAR;1766;Nao;Devedor;Sim;Nao;Nao;1332480,00;1332480,00
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;TELEFÔNICA;1982;Sim;Quitado;Nao;Nao;Nao;118620,60;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;2001;Nao;Devedor;Nao;Sim;Sim;6940,21;6940,21
+5,36E+14;SFI;Sem tipologia definida;STFC;OI;969;Nao;Quitado;Nao;Nao;Nao;4800,00;0,00
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;794;Nao;Devedor;Nao;Nao;Nao;13880,42;13880,42
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;772;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;941;Sim;Quitado;Nao;Nao;Nao;1983,04;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;815;Nao;Parcial;Nao;Nao;Nao;5880,04;915,71
+5,36E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;OI;2294;Nao;Devedor;Nao;Nao;Nao;33254,83;33254,83
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;253;Nao;Quitado;Nao;Nao;Nao;220,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;945;Nao;Quitado;Nao;Nao;Nao;7928,22;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;509;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;501;Nao;Devedor;Nao;Sim;Sim;3010,08;3010,08
+5,35E+14;SCO;Sem tipologia definida;STFC;TIM;1031;Sim;Quitado;Nao;Nao;Nao;18657,53;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;1342;Nao;Quitado;Nao;Nao;Nao;5595,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SeAC;OUTROS;686;Nao;Devedor;Nao;Sim;Sim;21035,59;21035,59
+5,35E+14;SCO;Carregamento de Canais - SeAC;SeAC;CABO CENTRO-MINAS;1644;Nao;Parcial;Nao;Nao;Nao;5606,90;62,86
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;898;Nao;Quitado;Nao;Nao;Nao;3898,74;0,00
+5,35E+14;SCO;Atendimento - SCM;SeAC;OUTROS;1939;Sim;Quitado;Nao;Nao;Nao;726,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;849;Sim;Quitado;Nao;Nao;Nao;3870,26;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;849;Sim;Quitado;Nao;Nao;Nao;77456,16;0,00
+5,35E+14;SCO;Atendimento - SCM;SCM;OUTROS;2157;Nao;Quitado;Nao;Nao;Nao;3239,10;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1127;Sim;Quitado;Nao;Nao;Nao;1895,88;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;779;Nao;Devedor;Nao;Sim;Sim;4361,09;4361,09
+5,35E+14;SCO;Descumprimento de Determinação;STFC;OUTROS;1318;Nao;Parcial;Nao;Sim;Sim;13355,11;12910,51
+5,35E+14;SFI;Irregularidade Técnica;SCM;OUTROS;956;Nao;Devedor;Nao;Sim;Sim;2770,99;2770,99
+5,35E+14;SCO;Direitos do Consumidor - STFC;STFC;OI;2059;Nao;Devedor;Nao;Sim;Sim;3606674,69;3606674,69
+5,36E+14;SCO;Direitos do Consumidor - STFC;SMP;CLARO;1814;Sim;Quitado;Nao;Nao;Nao;41569,04;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;752;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;723;Nao;Quitado;Nao;Nao;Sim;5345,49;0,00
+5,35E+14;SCO;Direitos do Consumidor - SMP;SMP;CLARO;1944;Sim;Quitado;Nao;Nao;Nao;51959,02;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;853;Sim;Quitado;Nao;Nao;Nao;660,00;0,00
+5,35E+14;SCO;Direitos do Consumidor - SeAC;SeAC;OUTROS;971;Nao;Quitado;Nao;Nao;Nao;880,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;260;Nao;Quitado;Nao;Nao;Nao;640,00;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1385;Nao;Devedor;Nao;Sim;Sim;3089,20;3089,20
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;849;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;593;Nao;Devedor;Nao;Sim;Sim;3510,08;3510,08
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;509;Nao;Quitado;Nao;Nao;Nao;3510,08;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;876;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;276;Nao;Parcial;Nao;Sim;Sim;5446,38;5264,75
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;850;Nao;Devedor;Nao;Sim;Sim;502,80;502,80
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;807;Nao;Quitado;Nao;Nao;Nao;2703,95;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;276;Nao;Devedor;Nao;Sim;Sim;10892,87;10892,87
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1167;Nao;Devedor;Nao;Nao;Sim;4543,67;4543,67
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;749;Nao;Devedor;Nao;Sim;Sim;5645,49;5645,49
+5,35E+14;SCO;Sem tipologia definida;SeAC;OUTROS;1244;Nao;Quitado;Nao;Nao;Nao;1760,00;0,00
+5,35E+14;SFI;Certificação de Produtos;SMP;OUTROS;1210;Nao;Parcial;Nao;Nao;Nao;8775,00;6456,81
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;739;Nao;Devedor;Nao;Nao;Sim;3835,08;3835,08
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;652;Nao;Devedor;Nao;Sim;Sim;4010,08;4010,08
+5,35E+14;SCO;Direitos do Consumidor - Convergente;SCM;OUTROS;881;Nao;Devedor;Nao;Sim;Sim;880,00;880,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;887;Nao;Devedor;Nao;Sim;Sim;625,70;625,70
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;798;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;455;Sim;Quitado;Nao;Nao;Nao;2550,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;902;Sim;Quitado;Nao;Nao;Nao;165,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;269;Nao;Quitado;Nao;Nao;Nao;5446,43;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;888;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;CLARO;715;Nao;Quitado;Nao;Nao;Nao;5000,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1030;Sim;Quitado;Nao;Nao;Nao;22621,50;0,00
+5,35E+14;SFI;Não Outorgado - Radiofrequência;SCM;OUTROS;1452;Nao;Quitado;Nao;Nao;Nao;7009,61;0,00
+5,35E+14;SCO;Remuneração de Redes;STFC;OUTROS;1937;Nao;Devedor;Nao;Sim;Sim;110000,00;110000,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1160;Nao;Quitado;Nao;Nao;Nao;440,00;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;STFC;ALGAR;1721;Nao;Quitado;Nao;Nao;Nao;59324,44;0,00
+5,35E+14;SFI;Certificação de Produtos;SCM;OUTROS;1508;Nao;Parcial;Nao;Sim;Sim;20394,00;15515,27
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;685;Sim;Quitado;Nao;Nao;Nao;170,16;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;973;Nao;Devedor;Nao;Sim;Sim;3447,64;3447,64
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;826;Sim;Quitado;Nao;Nao;Nao;1485,00;0,00
+5,35E+14;SCO;Sem tipologia definida;SeAC;ACOM;952;Sim;Quitado;Nao;Nao;Nao;1375,45;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SeAC;CABO SERVIÇOS;1141;Sim;Quitado;Nao;Nao;Nao;6500,92;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SeAC;OUTROS;1700;Nao;Parcial;Nao;Nao;Nao;2230,90;346,32
+5,35E+14;SCO;Obrigações Legais e Contratuais;SeAC;ACOM;1988;Nao;Quitado;Nao;Nao;Nao;25218,04;0,00
+5,35E+14;SCO;Carregamento de Canais - SeAC;SeAC;OUTROS;952;Nao;Devedor;Nao;Nao;Nao;75776,26;75776,26
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;949;Nao;Devedor;Nao;Sim;Sim;2672,75;2672,75
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;869;Nao;Parcial;Nao;Sim;Sim;10634,88;10457,71
+5,35E+14;SFI;Não Outorgado - Serviço;STFC;OUTROS;831;Nao;Parcial;Nao;Sim;Sim;9571,39;9411,94
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;470;Nao;Quitado;Nao;Nao;Nao;3010,08;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;463;Sim;Quitado;Nao;Nao;Nao;2250,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;828;Nao;Quitado;Nao;Nao;Nao;855,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;692;Nao;Devedor;Nao;Sim;Sim;1505,04;1505,04
+5,36E+14;SFI;Obstrução à Fiscalização;STFC;OI;2068;Nao;Devedor;Nao;Sim;Nao;360150,00;360150,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;840;Sim;Quitado;Nao;Nao;Nao;14400,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1495;Sim;Quitado;Nao;Nao;Nao;1650,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1254;Nao;Quitado;Nao;Nao;Nao;2487,23;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;964;Nao;Quitado;Nao;Nao;Nao;1000,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;834;Nao;Quitado;Nao;Nao;Nao;352,50;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;860;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;845;Sim;Quitado;Nao;Nao;Nao;4009,12;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;797;Nao;Parcial;Nao;Sim;Sim;3800,00;3446,04
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;1302;Nao;Quitado;Nao;Nao;Sim;5345,49;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;839;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;839;Nao;Devedor;Nao;Sim;Sim;2539,11;2539,11
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;780;Sim;Quitado;Nao;Nao;Nao;1918,93;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;429;Nao;Devedor;Nao;Sim;Sim;2175,00;2175,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;822;Nao;Devedor;Nao;Sim;Sim;3510,08;3510,08
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;777;Sim;Quitado;Nao;Nao;Nao;2257,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;115;Nao;Parcial;Nao;Sim;Sim;4062,62;2478,86
+5,35E+14;SCO;Direitos do Consumidor - SCM;SeAC;OUTROS;994;Nao;Devedor;Nao;Nao;Sim;1320,00;1320,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;545;Nao;Quitado;Nao;Nao;Nao;3000,00;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;435;Nao;Devedor;Nao;Sim;Sim;6160,08;6160,08
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;253;Nao;Quitado;Nao;Nao;Nao;1015,66;0,00
+5,35E+14;SFI;Irregularidade Técnica e Certificação;SCM;OUTROS;1220;Nao;Parcial;Nao;Nao;Nao;5345,49;8,66
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;1086;Nao;Quitado;Nao;Nao;Nao;2523,72;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;736;Nao;Quitado;Nao;Nao;Nao;999,90;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;617;Nao;Quitado;Nao;Nao;Nao;825,00;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;941;Nao;Quitado;Nao;Nao;Nao;502,80;0,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;STFC;OUTROS;1515;Nao;Devedor;Nao;Sim;Sim;196222,19;196222,19
+5,35E+14;SFI;Não Outorgado - Serviço e Radiofrequência;SCM;OUTROS;994;Nao;Devedor;Nao;Nao;Sim;3010,08;3010,08
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;424;Nao;Quitado;Nao;Nao;Nao;864,67;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;381;Nao;Quitado;Nao;Nao;Nao;3000,00;0,00
+5,35E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;1210;Nao;Devedor;Nao;Sim;Sim;5345,49;5345,49
+5,35E+14;SFI;Certificação e Não Outorgado - Serviço;SCM;OUTROS;932;Nao;Devedor;Nao;Sim;Sim;1608,96;1608,96
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;824;Nao;Quitado;Nao;Nao;Nao;6095,49;0,00
+5,35E+14;SCO;Interconexão;STFC;OUTROS;1631;Nao;Devedor;Nao;Sim;Nao;160930,43;160930,43
+5,36E+14;SCO;Universalização;STFC;OI;2201;Nao;Devedor;Nao;Sim;Sim;3501016,00;3501016,00
+5,35E+14;SFI;Obstrução à Fiscalização;SCM;OUTROS;840;Nao;Devedor;Nao;Sim;Sim;3539,71;3539,71
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;808;Nao;Parcial;Nao;Sim;Sim;5345,49;5215,54
+5,36E+14;SCO;Sem tipologia definida;SCM;OUTROS;909;Nao;Quitado;Nao;Nao;Nao;488,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;857;Nao;Quitado;Nao;Nao;Sim;5345,49;0,00
+5,35E+14;SCO;Sem tipologia definida;SCM;OUTROS;910;Nao;Quitado;Nao;Nao;Nao;220,00;0,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1167;Nao;Parcial;Nao;Nao;Sim;5345,49;5136,80
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;909;Nao;Devedor;Nao;Sim;Sim;3209,07;3209,07
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;508;Nao;Devedor;Nao;Sim;Sim;3000,00;3000,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;481;Nao;Quitado;Nao;Nao;Nao;3010,08;0,00
+5,36E+14;SFI;Não Outorgado - Serviço;SCM;OUTROS;462;Nao;Devedor;Nao;Sim;Sim;2709,08;2709,08
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;460;Nao;Quitado;Nao;Nao;Sim;3010,08;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;95;Nao;Quitado;Nao;Nao;Nao;3656,36;0,00
+5,36E+14;SFI;Sem tipologia definida;SCM;OUTROS;88;Nao;Quitado;Nao;Nao;Nao;3656,36;0,00
+5,35E+14;SFI;Licenciamento de Estação;SCM;OUTROS;1009;Nao;Quitado;Nao;Nao;Nao;2860,37;0,00
+5,36E+14;SFI;Sem tipologia definida;SMP;OUTROS;534;Nao;Parcial;Nao;Nao;Nao;990,00;9,21
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;1205;Sim;Quitado;Nao;Nao;Nao;2004,56;0,00
+5,35E+14;SFI;Sem tipologia definida;SMP;OUTROS;920;Nao;Devedor;Nao;Sim;Sim;1800,00;1800,00
+5,35E+14;SCO;Obrigações Legais e Contratuais;SCM;OUTROS;1947;Nao;Devedor;Nao;Sim;Sim;588,43;588,43
+5,35E+14;SCO;Descumprimento de Determinação;STFC;TELEFÔNICA;1713;Nao;Devedor;Sim;Nao;Nao;31982,16;31982,16
+5,36E+14;SCO;Universalização;STFC;OI;2256;Nao;Devedor;Nao;Sim;Sim;1143288,27;1143288,27
+5,35E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;OI;2271;Nao;Devedor;Nao;Nao;Nao;6000,00;6000,00
+5,35E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;OI;2190;Nao;Devedor;Nao;Sim;Sim;19708,48;19708,48
+5,35E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;OI;2056;Nao;Devedor;Nao;Sim;Sim;73309,82;73309,82
+5,35E+14;SCO;Disponibilidade e Funcionamento de TUP;STFC;OI;2383;Nao;Devedor;Nao;Nao;Nao;7000,00;7000,00
+5,35E+14;SFI;Sem tipologia definida;SCM;OUTROS;177;Sim;Quitado;Nao;Nao;Nao;2918,96;0,00
